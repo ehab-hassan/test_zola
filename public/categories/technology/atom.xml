@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - technology</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://www3.threefold.io/categories/technology/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://www3.threefold.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-12-15T00:00:00+00:00</updated>
+	<id>https://www3.threefold.io/categories/technology/atom.xml</id>
+	<entry xml:lang="en">
+		<title>The ThreeFold Blockchain</title>
+		<published>2021-12-15T00:00:00+00:00</published>
+		<updated>2021-12-15T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www3.threefold.io/blog/2021/12/post-7/" type="text/html"/>
+		<id>https://www3.threefold.io/blog/2021/12/post-7/</id>
+		<content type="html">&lt;p&gt;The &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;what-is-new-in-tfgrid-3-0&#x2F;1133&#x2F;1&quot;&gt;third release&lt;&#x2F;a&gt; of the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;technology&#x2F;threefold__threefold_grid&quot;&gt;ThreeFold Grid&lt;&#x2F;a&gt; represents a major step in the decentralization of the People’s Internet with the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;technology&#x2F;threefold__smartcontract_tfgrid3&quot;&gt;Smart Contract for IT&lt;&#x2F;a&gt; coming to life on the ThreeFold Blockchain (aka “TF Chain”). Built on the Substrate framework, TF Chain represents the layer-0 for all current and future technologies to provision decentralized Internet capacity. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;But what is Substrate to begin with? And what exactly does our TF Chain do?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-is-tf-chain-and-what-is-substrate&quot;&gt;What is TF Chain and what is Substrate?&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;technology&#x2F;threefold__tfchain&quot;&gt;TF Chain&lt;&#x2F;a&gt; is the universal smart contract layer on the ThreeFold Grid. It’s an application-specific blockchain customized for the operation of a single application – provisioning decentralized compute, storage and network capacity. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;substrate.io&#x2F;&quot;&gt;Substrate&lt;&#x2F;a&gt; is a blockchain-building framework from &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.parity.io&#x2F;&quot;&gt;Parity&lt;&#x2F;a&gt; that allows developers to simply create future-proof solo blockchains or parachains for any use case. Parity was founded by Ethereum’s co-founder and first CTO Gavin Wood in 2015, and went on to develop Substrate to power a multichain, interoperable and decentralized Internet.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;why-did-we-choose-substrate-for-our-tf-chain&quot;&gt;Why did we choose Substrate for our TF Chain?&lt;&#x2F;h2&gt;
+&lt;p&gt;Substrate brings clear benefits to &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;tech&#x2F;tf-chain&quot;&gt;TF Chain&lt;&#x2F;a&gt; in relation to its frameworks for developers, its interoperability with other blockchain ecosystems and its huge community. More than 150 projects from NFTs to DeFi are already building on it.  &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;By providing a solid, mature and secure layer for custom blockchains, Substrate is built for adoption. The blockchain framework was built with the programming language Rust and is modular by design. Choosing Substrate allowed our developer team to leverage great blockchain constructs and efficiently build TF Chain instead of re-inventing the wheel. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Its flexible, modular and composable architecture enables our team to focus on what matters the most – the unique demands of &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;grid&quot;&gt;ThreeFold Grid&lt;&#x2F;a&gt;. For example, we’ve built  a Grid module with specific functionalities for farms and nodes. Just like a chef can invent a new recipe and add it to a menu, Substrate allows our developers to build and add as many custom functionalities to TF Chain as we’d like, in a fully decentralized way. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;A major benefit that comes with TF Chain being built on Substrate is the native compatibility with the Polkadot ecosystem, opening up the opportunity for ThreeFold to become a parachain on the Polkadot network and seamlessly bridging to other Substrate-based chains in the future.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-s-the-purpose-of-tf-chain&quot;&gt;What’s the purpose of TF Chain?&lt;&#x2F;h2&gt;
+&lt;p&gt;For ThreeFold to be a &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;quest_decentralize_internet&#x2F;&quot;&gt;truly decentralized&lt;&#x2F;a&gt; peer-to-peer Internet infrastructure, people should be able to use Internet infrastructures from anywhere without any intermediaries like &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;threefold_cloud_vs_centralized_providers_like_aws_azure&#x2F;&quot;&gt;AWS&lt;&#x2F;a&gt;. TF Chain serves exactly that purpose. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;It orchestrates the provisioning of compute, storage and network on the ThreeFold Grid via &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;tech&#x2F;zero-os&quot;&gt;Zero-OS&lt;&#x2F;a&gt;, removing all forms of intermediaries present in today’s centralized IT infrastructures. Put simply, TF Chain allows people to provide and use cloud resources in a 100% decentralized way. &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-does-tf-chain-do&quot;&gt;What does TF Chain do?&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;threefold__tfchain&quot;&gt;TF Chain&lt;&#x2F;a&gt; is responsible for achieving consensus on all Internet capacity transactions on the ThreeFold Grid and to store them in a historical record. This prevents users from “double spending” their &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;tft&quot;&gt;ThreeFold Tokens&lt;&#x2F;a&gt; and ensures the correct execution of Internet capacity provisioning via smart contracts, while also protecting the network from potential attacks. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;An exciting feature that comes with TF Chain 3.0 is a totally new peer-to-peer billing framework for Internet capacity provisioning and workload deployment. This module allows for all functionalities of the ThreeFold Grid to be provisioned peer-to-peer between users and farmers. Therefore, the ThreeFold Token now also lives on the Polkadot network, allowing it to &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www2.threefold.io&#x2F;blog&#x2F;post&#x2F;bridges_connecting_threefold_ecosystem&#x2F;&quot;&gt;bridge back and forth&lt;&#x2F;a&gt; from the Stellar network and potentially from other chains in the future.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;While TF Chain builds on the Substrate framework, most of its functionalities are custom-built to fit the specific needs of the ThreeFold Grid – from Internet capacity provisioning, workload deployments, and payment and billing processes, to digital twin creation and much more. By executing all these actions via &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;tech&#x2F;smart-contract&quot;&gt;smart contracts&lt;&#x2F;a&gt; in an automated and decentralized way, the activity on the ThreeFold Grid is always secured by blockchain technology and available to other users for open collaboration. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Farms can now be registered on our new &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;tech_update_admin_portal&#x2F;&quot;&gt;TF Chain Portal&lt;&#x2F;a&gt;!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-future&quot;&gt;The Future&lt;&#x2F;h2&gt;
+&lt;p&gt;While Internet capacity provisioning and workload deployments are already executed via TF Chain, the minting of TFTs according to the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tfgrid&#x2F;farming&#x2F;threefold__proof_of_capacity&quot;&gt;Proof-of-Capacity algorithm&lt;&#x2F;a&gt; remains on the Stellar blockchain until Grid 3.1, when TF Chain will become the official chain of the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;technology&#x2F;threefold__threefold_token&quot;&gt;ThreeFold Token&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Building our own application-specific blockchain represents a major step towards decentralizing the ThreeFold Grid and ecosystem, with the next milestone being the ThreeFold DAO planned for Grid 3.2. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;A &lt;strong&gt;massive thank you&lt;&#x2F;strong&gt; to our developer team for this great achievement! 🙏&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Want to dive deeper? We invite you to:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;learn more about how smart contracts work on TF Chain 3.0 &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;technology&#x2F;threefold__smartcontract_tfgrid3&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;join the ThreeFold Grid 3.0 testnet conversations &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;joinchat&#x2F;BwOvOxxgK59GmRoZ2_sM0w&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;check our roadmap &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;cloud&#x2F;threefold__roadmap_grid&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>

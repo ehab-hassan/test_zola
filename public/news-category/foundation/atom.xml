@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - foundation</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://www3.threefold.io/news-category/foundation/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://www3.threefold.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-03-07T00:00:00+00:00</updated>
+	<id>https://www3.threefold.io/news-category/foundation/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Paradise Hills Property Development and ThreeFold to Establish the World’s First Neighborhood Cloud in Dubai</title>
+		<published>2022-03-07T00:00:00+00:00</published>
+		<updated>2022-03-07T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www3.threefold.io/newsroom/2022/03/post-08/" type="text/html"/>
+		<id>https://www3.threefold.io/newsroom/2022/03/post-08/</id>
+		<content type="html">&lt;p&gt;DUBAI, United Arab Emirates | Real Estate developer Paradise Hills and ThreeFold have announced today their plans to add dedicated servers (3Nodes) to approximately 170 homes in the Paradise Hill project, creating the world’s first neighborhood Cloud Network on the ThreeFold Grid.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Through this historic partnership, Paradise Hills Development and ThreeFold aim to provide every homeowner of the gated residence with a pre-installed 3Node, a dedicated server that provides the edge computing and internet storage needed to run decentralized applications and internet services. The initiative will provide residents, businesses, developers and the government with a secure and highly available sovereign cloud infrastructure to store and process their data locally.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;3nodehands.jpg&quot; alt=&quot;3Node&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“Paradise Hills is set to become the region’s center for true decentralization and the future of tomorrow’s Internet, essentially setting the standard for real estate developments and homeownership globally,” CEO Shaher Mousli of Paradise Hills Development said about the partnership.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“This historic collaboration is the first pilot in a series of initiatives by ThreeFold to help expand the digital landscape of the United Arab Emirates (UAE),” says Adnan Fatayerji, co-founder of ThreeFold. “It will support the development of edge computing, smart cities and IoT, showcasing the power of the private sector to build and drive digital empowerment initiatives in support of the Digital Dubai vision set by the Emirates leadership.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Over the last decade, “data sovereignty” became a key topic globally, with many countries insisting that any data produced locally should be stored on Internet infrastructures within their borders. By bringing ThreeFold’s decentralized Internet infrastructure to real estate properties such as Paradise Hills, the UAE will be home to the first-of-its-kind, self-sovereign, smart city development in the world.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“Through simple, secure, and scalable technology, ThreeFold empowers millions to invent and explore new experiences,” added ThreeFold co-founder Kristof de Spiegeleer. “We want to empower local businesses, creators, and communities to build a more sustainable and inclusive future.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;You and your communities can participate in the expansion and interconnection of the decentralized Internet as well! More information &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;farm&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Eight</title>
+		<published>2022-02-28T00:00:00+00:00</published>
+		<updated>2022-02-28T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www3.threefold.io/newsroom/2022/02/post-06/" type="text/html"/>
+		<id>https://www3.threefold.io/newsroom/2022/02/post-06/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! February 28th Edition (Volume Eight)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Your weekly ThreeFold digest: The validator verification process is underway, farming migration continues and Titan shipping picks back up, re-sharing an enlightening conversation, updates on the $TFT and tech (product) side, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-weekly-february-28th-edition-volume-eight&#x2F;2315&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;If you missed this weekend’s product planning update, it’s a big one! Take a look &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-planning-updates-march-2022&#x2F;2302?u=hannahcordes&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>The Validator Verification Process is Underway</title>
+		<published>2022-02-23T00:00:00+00:00</published>
+		<updated>2022-02-23T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www3.threefold.io/newsroom/2022/02/post-07/" type="text/html"/>
+		<id>https://www3.threefold.io/newsroom/2022/02/post-07/</id>
+		<content type="html">&lt;p&gt;🚨 &lt;strong&gt;The ThreeFold Validator Verification Process&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;If you’ve submitted your interest for either an &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;dao&#x2F;validators-signup-l0&#x2F;84&quot;&gt;L0&lt;&#x2F;a&gt; or &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;dao&#x2F;validators-signup-l2&#x2F;83&quot;&gt;L2&lt;&#x2F;a&gt; Validator, we are now pleased to share the verification process with you.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;the-threefold-validators-verification-process&#x2F;2276&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Limited spots remain&lt;&#x2F;strong&gt; for both L0 and L2 Validators, &lt;strong&gt;so be sure to submit your interest asap&lt;&#x2F;strong&gt; via the links above!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;And if you have any questions about validators still, please refer to &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;decentralization&#x2F;validators&#x2F;threefold__validators&quot;&gt;the Validators section&lt;&#x2F;a&gt; of the Library or in particular &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;decentralization&#x2F;validators&#x2F;threefold__validators_faq&quot;&gt;our FAQs&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;*&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>A Conversation with Jeroen Douglas</title>
+		<published>2022-02-22T00:00:00+00:00</published>
+		<updated>2022-02-22T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www3.threefold.io/newsroom/2022/02/post-08/" type="text/html"/>
+		<id>https://www3.threefold.io/newsroom/2022/02/post-08/</id>
+		<content type="html">&lt;p&gt;👂 &lt;strong&gt;Lend us your ear!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Is it possible to make a password-free Internet for one dollar owned by data smallholders? How to overcome the digital divide and reclaim the Internet from big tech?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;An enlightening conversation between ThreeFold co-founder Weynand Kuijpers and Solidaridad Network (ThreeFold partner) Executive Director Jeroen Douglas. 👇&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;www.buzzsprout.com&#x2F;1733439&#x2F;10113617&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Recently, we re-engaged with Solidaridad around their Fair Data initiative. &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;solidaridad-revival&#x2F;2158&quot;&gt;Take a look&lt;&#x2F;a&gt;!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>3,000+ 3Node Pre-Registrations for Batch 3</title>
+		<published>2021-06-08T00:00:00+00:00</published>
+		<updated>2021-06-08T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www3.threefold.io/newsroom/2021/06/post-08/" type="text/html"/>
+		<id>https://www3.threefold.io/newsroom/2021/06/post-08/</id>
+		<content type="html">&lt;p&gt;Over the past days we have received &lt;strong&gt;more than 3,000 pre-registrations&lt;&#x2F;strong&gt; for the Titan V2 3Node!
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;For now, pre-registration remains open &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;next3nodebatch.threefold.io&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;For those who have already pre-registered, thank you! We’ll have actions for you to take in the coming days.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>3Bot Connect renamed to ThreeFold Connect</title>
+		<published>2020-11-17T00:00:00+00:00</published>
+		<updated>2020-11-17T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www3.threefold.io/newsroom/2020/11/post-08/" type="text/html"/>
+		<id>https://www3.threefold.io/newsroom/2020/11/post-08/</id>
+		<content type="html">&lt;p&gt;Quick update!
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;As mentioned as &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;tfgrid&#x2F;#&#x2F;threefold_update_oct2020?id=_3bot-connect-app-updates-coming-in-november&quot;&gt;a preview in our October update&lt;&#x2F;a&gt;, 3Bot Connect is now more accurately named ThreeFold Connect across devices.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Note: No action is required, although if you have ThreeFold Connect installed already, you may have to update the app before the name changes on your device.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
