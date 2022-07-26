@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>zola - twin</title>
 	<subtitle>Our global digital backbone</subtitle>
-	<link href="http://127.0.0.1/website/news-category/twin/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="http://127.0.0.1/website"/>
+	<link href="mywebsite.com/news-category/twin/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="mywebsite.com"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2020-11-17T00:00:00+00:00</updated>
-	<id>http://127.0.0.1/website/news-category/twin/atom.xml</id>
+	<id>mywebsite.com/news-category/twin/atom.xml</id>
 	<entry xml:lang="en">
 		<title>3Bot Connect renamed to ThreeFold Connect</title>
 		<published>2020-11-17T00:00:00+00:00</published>
 		<updated>2020-11-17T00:00:00+00:00</updated>
-		<link rel="alternate" href="http://127.0.0.1/website/newsroom/2020/11/post-08/" type="text/html"/>
-		<id>http://127.0.0.1/website/newsroom/2020/11/post-08/</id>
+		<link rel="alternate" href="mywebsite.com/newsroom/2020/11/post-08/" type="text/html"/>
+		<id>mywebsite.com/newsroom/2020/11/post-08/</id>
 		<content type="html">&lt;p&gt;Quick update!
 &lt;br&#x2F;&gt;
 &lt;br&#x2F;&gt;&lt;&#x2F;p&gt;

@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>zola - aci</title>
 	<subtitle>Our global digital backbone</subtitle>
-	<link href="http://127.0.0.1/website/partners-category/aci/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="http://127.0.0.1/website"/>
+	<link href="mywebsite.com/partners-category/aci/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="mywebsite.com"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2021-12-15T00:00:00+00:00</updated>
-	<id>http://127.0.0.1/website/partners-category/aci/atom.xml</id>
+	<id>mywebsite.com/partners-category/aci/atom.xml</id>
 	<entry xml:lang="en">
 		<title>Take Action Global</title>
 		<published>2021-12-15T00:00:00+00:00</published>
 		<updated>2021-12-15T00:00:00+00:00</updated>
-		<link rel="alternate" href="http://127.0.0.1/website/partners/take-action-global/" type="text/html"/>
-		<id>http://127.0.0.1/website/partners/take-action-global/</id>
+		<link rel="alternate" href="mywebsite.com/partners/take-action-global/" type="text/html"/>
+		<id>mywebsite.com/partners/take-action-global/</id>
 		<content type="html">&lt;br&#x2F;&gt;
 &lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;climate_action_project.png&quot; alt=&quot;tag&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;

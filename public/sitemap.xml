@@ -1,1118 +1,1118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://127.0.0.1/website/</loc>
+        <loc>mywebsite.com/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/apage/</loc>
+        <loc>mywebsite.com/apage/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/</loc>
+        <loc>mywebsite.com/blog/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2018/</loc>
+        <loc>mywebsite.com/blog/2018/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2018/10/</loc>
+        <loc>mywebsite.com/blog/2018/10/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2018/10/post-1/</loc>
+        <loc>mywebsite.com/blog/2018/10/post-1/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2018/10/post-2/</loc>
+        <loc>mywebsite.com/blog/2018/10/post-2/</loc>
         <lastmod>2020-06-13T13:10:00-05:00</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2019/</loc>
+        <loc>mywebsite.com/blog/2019/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2019/01/</loc>
+        <loc>mywebsite.com/blog/2019/01/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2019/01/post-3/</loc>
+        <loc>mywebsite.com/blog/2019/01/post-3/</loc>
         <lastmod>2019-10-06T14:00:00-05:00</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2019/03/</loc>
+        <loc>mywebsite.com/blog/2019/03/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2019/03/post-4/</loc>
+        <loc>mywebsite.com/blog/2019/03/post-4/</loc>
         <lastmod>2020-01-31T08:13:00-06:00</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2019/03/post-5/</loc>
+        <loc>mywebsite.com/blog/2019/03/post-5/</loc>
         <lastmod>2020-01-01T02:39:00-06:00</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2019/06/</loc>
+        <loc>mywebsite.com/blog/2019/06/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2019/06/post-6/</loc>
+        <loc>mywebsite.com/blog/2019/06/post-6/</loc>
         <lastmod>2019-07-25T14:05:00-05:00</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2021/</loc>
+        <loc>mywebsite.com/blog/2021/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2021/12/</loc>
+        <loc>mywebsite.com/blog/2021/12/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2021/12/post-7/</loc>
+        <loc>mywebsite.com/blog/2021/12/post-7/</loc>
         <lastmod>2021-12-15</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2022/</loc>
+        <loc>mywebsite.com/blog/2022/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2022/03/</loc>
+        <loc>mywebsite.com/blog/2022/03/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2022/03/post-8/</loc>
+        <loc>mywebsite.com/blog/2022/03/post-8/</loc>
         <lastmod>2022-03-21</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2022/03/post-9/</loc>
+        <loc>mywebsite.com/blog/2022/03/post-9/</loc>
         <lastmod>2022-03-29</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2022/05/</loc>
+        <loc>mywebsite.com/blog/2022/05/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2022/05/post-10/</loc>
+        <loc>mywebsite.com/blog/2022/05/post-10/</loc>
         <lastmod>2022-04-05</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/2022/05/post-11/</loc>
+        <loc>mywebsite.com/blog/2022/05/post-11/</loc>
         <lastmod>2022-04-05</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/featured/</loc>
+        <loc>mywebsite.com/blog/featured/</loc>
         <lastmod>2022-03-29</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/page/1/</loc>
+        <loc>mywebsite.com/blog/page/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/page/2/</loc>
+        <loc>mywebsite.com/blog/page/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/blog/page/3/</loc>
+        <loc>mywebsite.com/blog/page/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/careers/</loc>
+        <loc>mywebsite.com/careers/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/careers/grid-development-manager/</loc>
+        <loc>mywebsite.com/careers/grid-development-manager/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/careers/grid-operations-manager/</loc>
+        <loc>mywebsite.com/careers/grid-operations-manager/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/careers/master-architect-dt/</loc>
+        <loc>mywebsite.com/careers/master-architect-dt/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/careers/qa-engineer/</loc>
+        <loc>mywebsite.com/careers/qa-engineer/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/careers/senior-developer/</loc>
+        <loc>mywebsite.com/careers/senior-developer/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/</loc>
+        <loc>mywebsite.com/categories/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/cloud/</loc>
+        <loc>mywebsite.com/categories/cloud/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/cloud/blog-posts/1/</loc>
+        <loc>mywebsite.com/categories/cloud/blog-posts/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/community/</loc>
+        <loc>mywebsite.com/categories/community/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/community/blog-posts/1/</loc>
+        <loc>mywebsite.com/categories/community/blog-posts/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/foundation/</loc>
+        <loc>mywebsite.com/categories/foundation/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/foundation/blog-posts/1/</loc>
+        <loc>mywebsite.com/categories/foundation/blog-posts/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/foundation/blog-posts/2/</loc>
+        <loc>mywebsite.com/categories/foundation/blog-posts/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/foundation/blog-posts/3/</loc>
+        <loc>mywebsite.com/categories/foundation/blog-posts/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/foundation/blog-posts/4/</loc>
+        <loc>mywebsite.com/categories/foundation/blog-posts/4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/foundation/blog-posts/5/</loc>
+        <loc>mywebsite.com/categories/foundation/blog-posts/5/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/technology/</loc>
+        <loc>mywebsite.com/categories/technology/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/technology/blog-posts/1/</loc>
+        <loc>mywebsite.com/categories/technology/blog-posts/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/use-cases/</loc>
+        <loc>mywebsite.com/categories/use-cases/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/categories/use-cases/blog-posts/1/</loc>
+        <loc>mywebsite.com/categories/use-cases/blog-posts/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/cloud/</loc>
+        <loc>mywebsite.com/cloud/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/community/</loc>
+        <loc>mywebsite.com/community/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/developer/</loc>
+        <loc>mywebsite.com/developer/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/developer/automation/</loc>
+        <loc>mywebsite.com/developer/automation/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/developer/blockchain/</loc>
+        <loc>mywebsite.com/developer/blockchain/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/developer/os/</loc>
+        <loc>mywebsite.com/developer/os/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/developer/planetarynw/</loc>
+        <loc>mywebsite.com/developer/planetarynw/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/developer/qsfs/</loc>
+        <loc>mywebsite.com/developer/qsfs/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/developer/tooling/</loc>
+        <loc>mywebsite.com/developer/tooling/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/ecosystem/</loc>
+        <loc>mywebsite.com/ecosystem/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/ecosystem/daos/</loc>
+        <loc>mywebsite.com/ecosystem/daos/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/ecosystem/daos/ourworld-dao/</loc>
+        <loc>mywebsite.com/ecosystem/daos/ourworld-dao/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/faq/</loc>
+        <loc>mywebsite.com/faq/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/faq/q/</loc>
+        <loc>mywebsite.com/faq/q/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/faq/q1/</loc>
+        <loc>mywebsite.com/faq/q1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/faq/q2/</loc>
+        <loc>mywebsite.com/faq/q2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/faq/q3/</loc>
+        <loc>mywebsite.com/faq/q3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/faq/q4/</loc>
+        <loc>mywebsite.com/faq/q4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/faq/q5/</loc>
+        <loc>mywebsite.com/faq/q5/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/faq/q6/</loc>
+        <loc>mywebsite.com/faq/q6/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/faq/q7/</loc>
+        <loc>mywebsite.com/faq/q7/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farm/</loc>
+        <loc>mywebsite.com/farm/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/</loc>
+        <loc>mywebsite.com/farmfaq/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q1/</loc>
+        <loc>mywebsite.com/farmfaq/q1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q10/</loc>
+        <loc>mywebsite.com/farmfaq/q10/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q11/</loc>
+        <loc>mywebsite.com/farmfaq/q11/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q12/</loc>
+        <loc>mywebsite.com/farmfaq/q12/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q13/</loc>
+        <loc>mywebsite.com/farmfaq/q13/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q14/</loc>
+        <loc>mywebsite.com/farmfaq/q14/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q15/</loc>
+        <loc>mywebsite.com/farmfaq/q15/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q2/</loc>
+        <loc>mywebsite.com/farmfaq/q2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q3/</loc>
+        <loc>mywebsite.com/farmfaq/q3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q4/</loc>
+        <loc>mywebsite.com/farmfaq/q4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q5/</loc>
+        <loc>mywebsite.com/farmfaq/q5/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q6/</loc>
+        <loc>mywebsite.com/farmfaq/q6/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q7/</loc>
+        <loc>mywebsite.com/farmfaq/q7/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q8/</loc>
+        <loc>mywebsite.com/farmfaq/q8/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/farmfaq/q9/</loc>
+        <loc>mywebsite.com/farmfaq/q9/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/footer/</loc>
+        <loc>mywebsite.com/footer/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/grid/</loc>
+        <loc>mywebsite.com/grid/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/header/</loc>
+        <loc>mywebsite.com/header/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/header/index-copy/</loc>
+        <loc>mywebsite.com/header/index-copy/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/join-us/</loc>
+        <loc>mywebsite.com/join-us/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/join-us/positions/</loc>
+        <loc>mywebsite.com/join-us/positions/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/join-us/positions/blockchain-engineer/</loc>
+        <loc>mywebsite.com/join-us/positions/blockchain-engineer/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/join-us/positions/community-builder/</loc>
+        <loc>mywebsite.com/join-us/positions/community-builder/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/join-us/positions/graphic-designer/</loc>
+        <loc>mywebsite.com/join-us/positions/graphic-designer/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/join-us/positions/human-resources/</loc>
+        <loc>mywebsite.com/join-us/positions/human-resources/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/join-us/positions/new-item/</loc>
+        <loc>mywebsite.com/join-us/positions/new-item/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/join-us/positions/ourworld-ambassador/</loc>
+        <loc>mywebsite.com/join-us/positions/ourworld-ambassador/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/</loc>
+        <loc>mywebsite.com/memberships/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/aci-members/</loc>
+        <loc>mywebsite.com/memberships/aci-members/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/aci-members/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/aci-members/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/aci-members/people/memberships/2/</loc>
+        <loc>mywebsite.com/memberships/aci-members/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/aci-members/people/memberships/3/</loc>
+        <loc>mywebsite.com/memberships/aci-members/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/aci-members/people/memberships/4/</loc>
+        <loc>mywebsite.com/memberships/aci-members/people/memberships/4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/aci-members/people/memberships/5/</loc>
+        <loc>mywebsite.com/memberships/aci-members/people/memberships/5/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/aci-members/people/memberships/6/</loc>
+        <loc>mywebsite.com/memberships/aci-members/people/memberships/6/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/aci/</loc>
+        <loc>mywebsite.com/memberships/aci/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/aci/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/aci/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/aci/people/memberships/2/</loc>
+        <loc>mywebsite.com/memberships/aci/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/ambassadors/</loc>
+        <loc>mywebsite.com/memberships/ambassadors/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/ambassadors/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/ambassadors/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/ambassadors/people/memberships/2/</loc>
+        <loc>mywebsite.com/memberships/ambassadors/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/cloud/</loc>
+        <loc>mywebsite.com/memberships/cloud/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/cloud/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/cloud/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/cloud/people/memberships/2/</loc>
+        <loc>mywebsite.com/memberships/cloud/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/cloud/people/memberships/3/</loc>
+        <loc>mywebsite.com/memberships/cloud/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/cofounders/</loc>
+        <loc>mywebsite.com/memberships/cofounders/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/cofounders/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/cofounders/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/cofounders/people/memberships/2/</loc>
+        <loc>mywebsite.com/memberships/cofounders/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/cofounders/people/memberships/3/</loc>
+        <loc>mywebsite.com/memberships/cofounders/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/cofounders/people/memberships/4/</loc>
+        <loc>mywebsite.com/memberships/cofounders/people/memberships/4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/farmers/</loc>
+        <loc>mywebsite.com/memberships/farmers/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/farmers/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/farmers/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/farmers/people/memberships/2/</loc>
+        <loc>mywebsite.com/memberships/farmers/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/farmers/people/memberships/3/</loc>
+        <loc>mywebsite.com/memberships/farmers/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/farming/</loc>
+        <loc>mywebsite.com/memberships/farming/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/farming/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/farming/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/</loc>
+        <loc>mywebsite.com/memberships/foundation/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/10/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/10/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/11/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/11/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/12/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/12/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/13/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/13/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/14/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/14/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/2/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/3/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/4/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/5/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/5/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/6/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/6/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/7/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/7/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/8/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/8/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/9/</loc>
+        <loc>mywebsite.com/memberships/foundation/people/memberships/9/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/grid-guardians/</loc>
+        <loc>mywebsite.com/memberships/grid-guardians/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/grid-guardians/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/grid-guardians/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/partners/</loc>
+        <loc>mywebsite.com/memberships/partners/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/partners/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/partners/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/partners/people/memberships/2/</loc>
+        <loc>mywebsite.com/memberships/partners/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/partners/people/memberships/3/</loc>
+        <loc>mywebsite.com/memberships/partners/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/partners/people/memberships/4/</loc>
+        <loc>mywebsite.com/memberships/partners/people/memberships/4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/partners/people/memberships/5/</loc>
+        <loc>mywebsite.com/memberships/partners/people/memberships/5/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/tech/</loc>
+        <loc>mywebsite.com/memberships/tech/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/tech/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/10/</loc>
+        <loc>mywebsite.com/memberships/tech/people/memberships/10/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/11/</loc>
+        <loc>mywebsite.com/memberships/tech/people/memberships/11/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/2/</loc>
+        <loc>mywebsite.com/memberships/tech/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/3/</loc>
+        <loc>mywebsite.com/memberships/tech/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/4/</loc>
+        <loc>mywebsite.com/memberships/tech/people/memberships/4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/5/</loc>
+        <loc>mywebsite.com/memberships/tech/people/memberships/5/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/6/</loc>
+        <loc>mywebsite.com/memberships/tech/people/memberships/6/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/7/</loc>
+        <loc>mywebsite.com/memberships/tech/people/memberships/7/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/8/</loc>
+        <loc>mywebsite.com/memberships/tech/people/memberships/8/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/9/</loc>
+        <loc>mywebsite.com/memberships/tech/people/memberships/9/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/technology-council/</loc>
+        <loc>mywebsite.com/memberships/technology-council/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/technology-council/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/technology-council/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/technology-council/people/memberships/2/</loc>
+        <loc>mywebsite.com/memberships/technology-council/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/technology-council/people/memberships/3/</loc>
+        <loc>mywebsite.com/memberships/technology-council/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/twin/</loc>
+        <loc>mywebsite.com/memberships/twin/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/twin/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/twin/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/twin/people/memberships/2/</loc>
+        <loc>mywebsite.com/memberships/twin/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/twin/people/memberships/3/</loc>
+        <loc>mywebsite.com/memberships/twin/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/wisdom-council/</loc>
+        <loc>mywebsite.com/memberships/wisdom-council/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/wisdom-council/people/memberships/1/</loc>
+        <loc>mywebsite.com/memberships/wisdom-council/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/wisdom-council/people/memberships/2/</loc>
+        <loc>mywebsite.com/memberships/wisdom-council/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/memberships/wisdom-council/people/memberships/3/</loc>
+        <loc>mywebsite.com/memberships/wisdom-council/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/mission/</loc>
+        <loc>mywebsite.com/mission/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/news-category/</loc>
+        <loc>mywebsite.com/news-category/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/news-category/cloud/</loc>
+        <loc>mywebsite.com/news-category/cloud/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/news-category/cloud/news-card/1/</loc>
+        <loc>mywebsite.com/news-category/cloud/news-card/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/news-category/farming/</loc>
+        <loc>mywebsite.com/news-category/farming/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/news-category/farming/news-card/1/</loc>
+        <loc>mywebsite.com/news-category/farming/news-card/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/news-category/foundation/</loc>
+        <loc>mywebsite.com/news-category/foundation/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/news-category/foundation/news-card/1/</loc>
+        <loc>mywebsite.com/news-category/foundation/news-card/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/news-category/foundation/news-card/2/</loc>
+        <loc>mywebsite.com/news-category/foundation/news-card/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/news-category/foundation/news-card/3/</loc>
+        <loc>mywebsite.com/news-category/foundation/news-card/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/news-category/twin/</loc>
+        <loc>mywebsite.com/news-category/twin/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/news-category/twin/news-card/1/</loc>
+        <loc>mywebsite.com/news-category/twin/news-card/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/</loc>
+        <loc>mywebsite.com/newsroom/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/2020/</loc>
+        <loc>mywebsite.com/newsroom/2020/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/2020/11/</loc>
+        <loc>mywebsite.com/newsroom/2020/11/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/2020/11/post-08/</loc>
+        <loc>mywebsite.com/newsroom/2020/11/post-08/</loc>
         <lastmod>2020-11-17</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/2021/</loc>
+        <loc>mywebsite.com/newsroom/2021/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/2021/06/</loc>
+        <loc>mywebsite.com/newsroom/2021/06/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/2021/06/post-08/</loc>
+        <loc>mywebsite.com/newsroom/2021/06/post-08/</loc>
         <lastmod>2021-06-08</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/2022/</loc>
+        <loc>mywebsite.com/newsroom/2022/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/2022/02/</loc>
+        <loc>mywebsite.com/newsroom/2022/02/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/2022/02/post-06/</loc>
+        <loc>mywebsite.com/newsroom/2022/02/post-06/</loc>
         <lastmod>2022-02-28</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/2022/02/post-07/</loc>
+        <loc>mywebsite.com/newsroom/2022/02/post-07/</loc>
         <lastmod>2022-02-23</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/2022/02/post-08/</loc>
+        <loc>mywebsite.com/newsroom/2022/02/post-08/</loc>
         <lastmod>2022-02-22</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/2022/03/</loc>
+        <loc>mywebsite.com/newsroom/2022/03/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/2022/03/post-08/</loc>
+        <loc>mywebsite.com/newsroom/2022/03/post-08/</loc>
         <lastmod>2022-03-07</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/page/1/</loc>
+        <loc>mywebsite.com/newsroom/page/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/newsroom/page/2/</loc>
+        <loc>mywebsite.com/newsroom/page/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/partners-category/</loc>
+        <loc>mywebsite.com/partners-category/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/partners-category/aci/</loc>
+        <loc>mywebsite.com/partners-category/aci/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/partners-category/aci/partner-card/1/</loc>
+        <loc>mywebsite.com/partners-category/aci/partner-card/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/partners-category/foundation/</loc>
+        <loc>mywebsite.com/partners-category/foundation/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/partners-category/foundation/partner-card/1/</loc>
+        <loc>mywebsite.com/partners-category/foundation/partner-card/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/partners-category/foundation/partner-card/2/</loc>
+        <loc>mywebsite.com/partners-category/foundation/partner-card/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/partners/</loc>
+        <loc>mywebsite.com/partners/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/partners/casperlabs/</loc>
+        <loc>mywebsite.com/partners/casperlabs/</loc>
         <lastmod>2021-12-15</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/partners/digicorp-labs/</loc>
+        <loc>mywebsite.com/partners/digicorp-labs/</loc>
         <lastmod>2021-12-15</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/partners/own-cloud/</loc>
+        <loc>mywebsite.com/partners/own-cloud/</loc>
         <lastmod>2021-12-15</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/partners/page/1/</loc>
+        <loc>mywebsite.com/partners/page/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/partners/take-action-global/</loc>
+        <loc>mywebsite.com/partners/take-action-global/</loc>
         <lastmod>2021-12-15</lastmod>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/</loc>
+        <loc>mywebsite.com/people/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/abdelrahman-ghanem/</loc>
+        <loc>mywebsite.com/people/abdelrahman-ghanem/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/adnanfatayerji/</loc>
+        <loc>mywebsite.com/people/adnanfatayerji/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/ahmed-thabet/</loc>
+        <loc>mywebsite.com/people/ahmed-thabet/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/alexandre-hannelas/</loc>
+        <loc>mywebsite.com/people/alexandre-hannelas/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/andreashartl/</loc>
+        <loc>mywebsite.com/people/andreashartl/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/ashraf-fouda/</loc>
+        <loc>mywebsite.com/people/ashraf-fouda/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/atef-nazmy/</loc>
+        <loc>mywebsite.com/people/atef-nazmy/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/christopher-hutton/</loc>
+        <loc>mywebsite.com/people/christopher-hutton/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/claus-rosenberg-gotthard/</loc>
+        <loc>mywebsite.com/people/claus-rosenberg-gotthard/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/ehab-hassan/</loc>
+        <loc>mywebsite.com/people/ehab-hassan/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/ewald-weizenbauer/</loc>
+        <loc>mywebsite.com/people/ewald-weizenbauer/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/florian-fournier/</loc>
+        <loc>mywebsite.com/people/florian-fournier/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/geert-machtelinckx/</loc>
+        <loc>mywebsite.com/people/geert-machtelinckx/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/gloria-anne/</loc>
+        <loc>mywebsite.com/people/gloria-anne/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/hannah-cordes/</loc>
+        <loc>mywebsite.com/people/hannah-cordes/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/ingo-schildt/</loc>
+        <loc>mywebsite.com/people/ingo-schildt/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/ivan-coene/</loc>
+        <loc>mywebsite.com/people/ivan-coene/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/jan-de-landtsheer/</loc>
+        <loc>mywebsite.com/people/jan-de-landtsheer/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/jennifer-long/</loc>
+        <loc>mywebsite.com/people/jennifer-long/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/jonas-delrue/</loc>
+        <loc>mywebsite.com/people/jonas-delrue/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/jozua-van-der-deijl/</loc>
+        <loc>mywebsite.com/people/jozua-van-der-deijl/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/karoline-zizka/</loc>
+        <loc>mywebsite.com/people/karoline-zizka/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/ken-de-moor/</loc>
+        <loc>mywebsite.com/people/ken-de-moor/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/koen-timmers/</loc>
+        <loc>mywebsite.com/people/koen-timmers/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/kristof-de-spiegeleer/</loc>
+        <loc>mywebsite.com/people/kristof-de-spiegeleer/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/lee-smet/</loc>
+        <loc>mywebsite.com/people/lee-smet/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/libor-voncina/</loc>
+        <loc>mywebsite.com/people/libor-voncina/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/mamadou-kwidjim-toure/</loc>
+        <loc>mywebsite.com/people/mamadou-kwidjim-toure/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/mariza-wellesley-wesley/</loc>
+        <loc>mywebsite.com/people/mariza-wellesley-wesley/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/maxime-daniel/</loc>
+        <loc>mywebsite.com/people/maxime-daniel/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/medha-parlikar/</loc>
+        <loc>mywebsite.com/people/medha-parlikar/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/michael-wellesley-wesley/</loc>
+        <loc>mywebsite.com/people/michael-wellesley-wesley/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/nayer-sobhy/</loc>
+        <loc>mywebsite.com/people/nayer-sobhy/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/nickolay-babenko/</loc>
+        <loc>mywebsite.com/people/nickolay-babenko/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/owen-kemp/</loc>
+        <loc>mywebsite.com/people/owen-kemp/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/page/1/</loc>
+        <loc>mywebsite.com/people/page/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/page/2/</loc>
+        <loc>mywebsite.com/people/page/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/peter-van-der-henst/</loc>
+        <loc>mywebsite.com/people/peter-van-der-henst/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/pierre-van-hoorebeke/</loc>
+        <loc>mywebsite.com/people/pierre-van-hoorebeke/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/rajinder-singh-grewal/</loc>
+        <loc>mywebsite.com/people/rajinder-singh-grewal/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/reem-khamis/</loc>
+        <loc>mywebsite.com/people/reem-khamis/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/rob-van-mieghem/</loc>
+        <loc>mywebsite.com/people/rob-van-mieghem/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/rudy-bouwman/</loc>
+        <loc>mywebsite.com/people/rudy-bouwman/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/sabrina-sadik/</loc>
+        <loc>mywebsite.com/people/sabrina-sadik/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/sacha-obeegadoo/</loc>
+        <loc>mywebsite.com/people/sacha-obeegadoo/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/sam-taggart/</loc>
+        <loc>mywebsite.com/people/sam-taggart/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/samar-adel/</loc>
+        <loc>mywebsite.com/people/samar-adel/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/scott-yeager/</loc>
+        <loc>mywebsite.com/people/scott-yeager/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/people/weynand-kuijpers/</loc>
+        <loc>mywebsite.com/people/weynand-kuijpers/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/roles/</loc>
+        <loc>mywebsite.com/roles/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/roles/create/</loc>
+        <loc>mywebsite.com/roles/create/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/roles/create/join-us/1/</loc>
+        <loc>mywebsite.com/roles/create/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/roles/develop/</loc>
+        <loc>mywebsite.com/roles/develop/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/roles/develop/join-us/1/</loc>
+        <loc>mywebsite.com/roles/develop/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/roles/inspire/</loc>
+        <loc>mywebsite.com/roles/inspire/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/roles/inspire/join-us/1/</loc>
+        <loc>mywebsite.com/roles/inspire/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/roles/organize/</loc>
+        <loc>mywebsite.com/roles/organize/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/roles/organize/join-us/1/</loc>
+        <loc>mywebsite.com/roles/organize/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/support/</loc>
+        <loc>mywebsite.com/support/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/</loc>
+        <loc>mywebsite.com/tags/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/blockchain/</loc>
+        <loc>mywebsite.com/tags/blockchain/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/blockchain/join-us/1/</loc>
+        <loc>mywebsite.com/tags/blockchain/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/blockchain/join-us/2/</loc>
+        <loc>mywebsite.com/tags/blockchain/join-us/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/community/</loc>
+        <loc>mywebsite.com/tags/community/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/community/join-us/1/</loc>
+        <loc>mywebsite.com/tags/community/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/community/join-us/10/</loc>
+        <loc>mywebsite.com/tags/community/join-us/10/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/community/join-us/2/</loc>
+        <loc>mywebsite.com/tags/community/join-us/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/community/join-us/3/</loc>
+        <loc>mywebsite.com/tags/community/join-us/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/community/join-us/4/</loc>
+        <loc>mywebsite.com/tags/community/join-us/4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/community/join-us/5/</loc>
+        <loc>mywebsite.com/tags/community/join-us/5/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/community/join-us/6/</loc>
+        <loc>mywebsite.com/tags/community/join-us/6/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/community/join-us/7/</loc>
+        <loc>mywebsite.com/tags/community/join-us/7/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/community/join-us/8/</loc>
+        <loc>mywebsite.com/tags/community/join-us/8/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/community/join-us/9/</loc>
+        <loc>mywebsite.com/tags/community/join-us/9/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/dapps/</loc>
+        <loc>mywebsite.com/tags/dapps/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/dapps/join-us/1/</loc>
+        <loc>mywebsite.com/tags/dapps/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/farming/</loc>
+        <loc>mywebsite.com/tags/farming/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/farming/join-us/1/</loc>
+        <loc>mywebsite.com/tags/farming/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/farming/join-us/2/</loc>
+        <loc>mywebsite.com/tags/farming/join-us/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/farming/join-us/3/</loc>
+        <loc>mywebsite.com/tags/farming/join-us/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/farming/join-us/4/</loc>
+        <loc>mywebsite.com/tags/farming/join-us/4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/farming/join-us/5/</loc>
+        <loc>mywebsite.com/tags/farming/join-us/5/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/farming/join-us/6/</loc>
+        <loc>mywebsite.com/tags/farming/join-us/6/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/farming/join-us/7/</loc>
+        <loc>mywebsite.com/tags/farming/join-us/7/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/freeflow/</loc>
+        <loc>mywebsite.com/tags/freeflow/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/freeflow/join-us/1/</loc>
+        <loc>mywebsite.com/tags/freeflow/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/grid/</loc>
+        <loc>mywebsite.com/tags/grid/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/grid/join-us/1/</loc>
+        <loc>mywebsite.com/tags/grid/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/impact/</loc>
+        <loc>mywebsite.com/tags/impact/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/impact/join-us/1/</loc>
+        <loc>mywebsite.com/tags/impact/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/interview/</loc>
+        <loc>mywebsite.com/tags/interview/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/interview/join-us/1/</loc>
+        <loc>mywebsite.com/tags/interview/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/interview/join-us/2/</loc>
+        <loc>mywebsite.com/tags/interview/join-us/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/interview/join-us/3/</loc>
+        <loc>mywebsite.com/tags/interview/join-us/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/interview/join-us/4/</loc>
+        <loc>mywebsite.com/tags/interview/join-us/4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/interview/join-us/5/</loc>
+        <loc>mywebsite.com/tags/interview/join-us/5/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/interview/join-us/6/</loc>
+        <loc>mywebsite.com/tags/interview/join-us/6/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/interview/join-us/7/</loc>
+        <loc>mywebsite.com/tags/interview/join-us/7/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/metaverse/</loc>
+        <loc>mywebsite.com/tags/metaverse/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/metaverse/join-us/1/</loc>
+        <loc>mywebsite.com/tags/metaverse/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/news/</loc>
+        <loc>mywebsite.com/tags/news/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/news/join-us/1/</loc>
+        <loc>mywebsite.com/tags/news/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/news/join-us/2/</loc>
+        <loc>mywebsite.com/tags/news/join-us/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/partner/</loc>
+        <loc>mywebsite.com/tags/partner/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/partner/join-us/1/</loc>
+        <loc>mywebsite.com/tags/partner/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/peer-to-peer/</loc>
+        <loc>mywebsite.com/tags/peer-to-peer/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/peer-to-peer/join-us/1/</loc>
+        <loc>mywebsite.com/tags/peer-to-peer/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/source-code/</loc>
+        <loc>mywebsite.com/tags/source-code/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/source-code/join-us/1/</loc>
+        <loc>mywebsite.com/tags/source-code/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/technology/</loc>
+        <loc>mywebsite.com/tags/technology/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/technology/join-us/1/</loc>
+        <loc>mywebsite.com/tags/technology/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/technology/join-us/2/</loc>
+        <loc>mywebsite.com/tags/technology/join-us/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/threefold-grid/</loc>
+        <loc>mywebsite.com/tags/threefold-grid/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/threefold-grid/join-us/1/</loc>
+        <loc>mywebsite.com/tags/threefold-grid/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/threefold-grid/join-us/2/</loc>
+        <loc>mywebsite.com/tags/threefold-grid/join-us/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/threefold-grid/join-us/3/</loc>
+        <loc>mywebsite.com/tags/threefold-grid/join-us/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/threefold-grid/join-us/4/</loc>
+        <loc>mywebsite.com/tags/threefold-grid/join-us/4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/threefold-grid/join-us/5/</loc>
+        <loc>mywebsite.com/tags/threefold-grid/join-us/5/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/threefold-grid/join-us/6/</loc>
+        <loc>mywebsite.com/tags/threefold-grid/join-us/6/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/update/</loc>
+        <loc>mywebsite.com/tags/update/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/update/join-us/1/</loc>
+        <loc>mywebsite.com/tags/update/join-us/1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/update/join-us/2/</loc>
+        <loc>mywebsite.com/tags/update/join-us/2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/update/join-us/3/</loc>
+        <loc>mywebsite.com/tags/update/join-us/3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/update/join-us/4/</loc>
+        <loc>mywebsite.com/tags/update/join-us/4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/update/join-us/5/</loc>
+        <loc>mywebsite.com/tags/update/join-us/5/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/update/join-us/6/</loc>
+        <loc>mywebsite.com/tags/update/join-us/6/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/update/join-us/7/</loc>
+        <loc>mywebsite.com/tags/update/join-us/7/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tags/update/join-us/8/</loc>
+        <loc>mywebsite.com/tags/update/join-us/8/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tft/</loc>
+        <loc>mywebsite.com/tft/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/</loc>
+        <loc>mywebsite.com/tftfaq/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q1/</loc>
+        <loc>mywebsite.com/tftfaq/q1/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q10/</loc>
+        <loc>mywebsite.com/tftfaq/q10/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q11/</loc>
+        <loc>mywebsite.com/tftfaq/q11/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q12/</loc>
+        <loc>mywebsite.com/tftfaq/q12/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q13/</loc>
+        <loc>mywebsite.com/tftfaq/q13/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q14/</loc>
+        <loc>mywebsite.com/tftfaq/q14/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q15/</loc>
+        <loc>mywebsite.com/tftfaq/q15/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q2/</loc>
+        <loc>mywebsite.com/tftfaq/q2/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q3/</loc>
+        <loc>mywebsite.com/tftfaq/q3/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q4/</loc>
+        <loc>mywebsite.com/tftfaq/q4/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q5/</loc>
+        <loc>mywebsite.com/tftfaq/q5/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q6/</loc>
+        <loc>mywebsite.com/tftfaq/q6/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q7/</loc>
+        <loc>mywebsite.com/tftfaq/q7/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q8/</loc>
+        <loc>mywebsite.com/tftfaq/q8/</loc>
     </url>
     <url>
-        <loc>http://127.0.0.1/website/tftfaq/q9/</loc>
+        <loc>mywebsite.com/tftfaq/q9/</loc>
     </url>
 </urlset>

@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>zola - blockchain</title>
 	<subtitle>Our global digital backbone</subtitle>
-	<link href="http://127.0.0.1/website/tags/blockchain/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="http://127.0.0.1/website"/>
+	<link href="mywebsite.com/tags/blockchain/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="mywebsite.com"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2021-12-15T00:00:00+00:00</updated>
-	<id>http://127.0.0.1/website/tags/blockchain/atom.xml</id>
+	<id>mywebsite.com/tags/blockchain/atom.xml</id>
 	<entry xml:lang="en">
 		<title>CasperLabs</title>
 		<published>2021-12-15T00:00:00+00:00</published>
 		<updated>2021-12-15T00:00:00+00:00</updated>
-		<link rel="alternate" href="http://127.0.0.1/website/partners/casperlabs/" type="text/html"/>
-		<id>http://127.0.0.1/website/partners/casperlabs/</id>
+		<link rel="alternate" href="mywebsite.com/partners/casperlabs/" type="text/html"/>
+		<id>mywebsite.com/partners/casperlabs/</id>
 		<content type="html">&lt;br&#x2F;&gt;
 &lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;casperlabs2.png&quot; alt=&quot;casperlabs&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
@@ -35,8 +35,8 @@ On a smaller scale, anyone will be able to contribute to Casper’s blockchain s
 		<title>digicorp labs</title>
 		<published>2021-12-15T00:00:00+00:00</published>
 		<updated>2021-12-15T00:00:00+00:00</updated>
-		<link rel="alternate" href="http://127.0.0.1/website/partners/digicorp-labs/" type="text/html"/>
-		<id>http://127.0.0.1/website/partners/digicorp-labs/</id>
+		<link rel="alternate" href="mywebsite.com/partners/digicorp-labs/" type="text/html"/>
+		<id>mywebsite.com/partners/digicorp-labs/</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;digicorp_labs.png&quot; alt=&quot;digicorp&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#about&quot; aria-label=&quot;Anchor link for: about&quot;&gt;🔗&lt;&#x2F;a&gt;About&lt;&#x2F;h2&gt;
 &lt;p&gt;DigiCorp sees how digital lives are becoming more significant, and we’re acting now – bringing this opportunity for freedom and security to life for the people who need it most. Our three elements – DigiThree, DigiLife and DigiWare &amp;amp; DigiAcademy – allow us to focus on the diverse needs of enterprises, consumers and developers, bringing bespoke solutions designed to protect and elevate each audience into the digital future.&lt;&#x2F;p&gt;
@@ -52,8 +52,8 @@ On a smaller scale, anyone will be able to contribute to Casper’s blockchain s
 		<title>digicorp labs</title>
 		<published>2021-12-15T00:00:00+00:00</published>
 		<updated>2021-12-15T00:00:00+00:00</updated>
-		<link rel="alternate" href="http://127.0.0.1/website/partners/own-cloud/" type="text/html"/>
-		<id>http://127.0.0.1/website/partners/own-cloud/</id>
+		<link rel="alternate" href="mywebsite.com/partners/own-cloud/" type="text/html"/>
+		<id>mywebsite.com/partners/own-cloud/</id>
 		<content type="html">&lt;br&#x2F;&gt;
 &lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;owncloud1.png&quot; alt=&quot;owncloud&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
