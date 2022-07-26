@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-	<title>ThreeFold - Community</title>
+	<title>zola - Community</title>
 	<subtitle>Our global digital backbone</subtitle>
-	<link href="https://www3.threefold.io/categories/community/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://www3.threefold.io"/>
+	<link href="http://127.0.0.1/website/categories/community/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="http://127.0.0.1/website"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2019-04-11T20:33:00-05:00</updated>
-	<id>https://www3.threefold.io/categories/community/atom.xml</id>
+	<id>http://127.0.0.1/website/categories/community/atom.xml</id>
 	<entry xml:lang="en">
 		<title>Post 1 with its UNIQUE title</title>
 		<published>2018-10-17T14:40:00-05:00</published>
 		<updated>2019-04-11T20:33:00-05:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/blog/2018/10/post-1/" type="text/html"/>
-		<id>https://www3.threefold.io/blog/2018/10/post-1/</id>
+		<link rel="alternate" href="http://127.0.0.1/website/blog/2018/10/post-1/" type="text/html"/>
+		<id>http://127.0.0.1/website/blog/2018/10/post-1/</id>
 		<content type="html">&lt;p&gt;Your opening text goes here.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;in-article-heading-it-s-an-h2-because-your-title-is-the-h1&quot;&gt;In-article heading — it’s an H2 because your title is the H1&lt;&#x2F;h2&gt;
 &lt;p&gt;And after another paragraph or two or three, you may want to add a subheading, which would be an H3, so it would be like the following.&lt;&#x2F;p&gt;

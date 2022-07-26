@@ -1,1118 +1,1118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://www3.threefold.io/</loc>
+        <loc>http://127.0.0.1/website/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/apage/</loc>
+        <loc>http://127.0.0.1/website/apage/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/</loc>
+        <loc>http://127.0.0.1/website/blog/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2018/</loc>
+        <loc>http://127.0.0.1/website/blog/2018/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2018/10/</loc>
+        <loc>http://127.0.0.1/website/blog/2018/10/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2018/10/post-1/</loc>
+        <loc>http://127.0.0.1/website/blog/2018/10/post-1/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2018/10/post-2/</loc>
+        <loc>http://127.0.0.1/website/blog/2018/10/post-2/</loc>
         <lastmod>2020-06-13T13:10:00-05:00</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2019/</loc>
+        <loc>http://127.0.0.1/website/blog/2019/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2019/01/</loc>
+        <loc>http://127.0.0.1/website/blog/2019/01/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2019/01/post-3/</loc>
+        <loc>http://127.0.0.1/website/blog/2019/01/post-3/</loc>
         <lastmod>2019-10-06T14:00:00-05:00</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2019/03/</loc>
+        <loc>http://127.0.0.1/website/blog/2019/03/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2019/03/post-4/</loc>
+        <loc>http://127.0.0.1/website/blog/2019/03/post-4/</loc>
         <lastmod>2020-01-31T08:13:00-06:00</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2019/03/post-5/</loc>
+        <loc>http://127.0.0.1/website/blog/2019/03/post-5/</loc>
         <lastmod>2020-01-01T02:39:00-06:00</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2019/06/</loc>
+        <loc>http://127.0.0.1/website/blog/2019/06/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2019/06/post-6/</loc>
+        <loc>http://127.0.0.1/website/blog/2019/06/post-6/</loc>
         <lastmod>2019-07-25T14:05:00-05:00</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2021/</loc>
+        <loc>http://127.0.0.1/website/blog/2021/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2021/12/</loc>
+        <loc>http://127.0.0.1/website/blog/2021/12/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2021/12/post-7/</loc>
+        <loc>http://127.0.0.1/website/blog/2021/12/post-7/</loc>
         <lastmod>2021-12-15</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2022/</loc>
+        <loc>http://127.0.0.1/website/blog/2022/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2022/03/</loc>
+        <loc>http://127.0.0.1/website/blog/2022/03/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2022/03/post-8/</loc>
+        <loc>http://127.0.0.1/website/blog/2022/03/post-8/</loc>
         <lastmod>2022-03-21</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2022/03/post-9/</loc>
+        <loc>http://127.0.0.1/website/blog/2022/03/post-9/</loc>
         <lastmod>2022-03-29</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2022/05/</loc>
+        <loc>http://127.0.0.1/website/blog/2022/05/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2022/05/post-10/</loc>
+        <loc>http://127.0.0.1/website/blog/2022/05/post-10/</loc>
         <lastmod>2022-04-05</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/2022/05/post-11/</loc>
+        <loc>http://127.0.0.1/website/blog/2022/05/post-11/</loc>
         <lastmod>2022-04-05</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/featured/</loc>
+        <loc>http://127.0.0.1/website/blog/featured/</loc>
         <lastmod>2022-03-29</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/page/1/</loc>
+        <loc>http://127.0.0.1/website/blog/page/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/page/2/</loc>
+        <loc>http://127.0.0.1/website/blog/page/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/blog/page/3/</loc>
+        <loc>http://127.0.0.1/website/blog/page/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/careers/</loc>
+        <loc>http://127.0.0.1/website/careers/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/careers/grid-development-manager/</loc>
+        <loc>http://127.0.0.1/website/careers/grid-development-manager/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/careers/grid-operations-manager/</loc>
+        <loc>http://127.0.0.1/website/careers/grid-operations-manager/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/careers/master-architect-dt/</loc>
+        <loc>http://127.0.0.1/website/careers/master-architect-dt/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/careers/qa-engineer/</loc>
+        <loc>http://127.0.0.1/website/careers/qa-engineer/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/careers/senior-developer/</loc>
+        <loc>http://127.0.0.1/website/careers/senior-developer/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/</loc>
+        <loc>http://127.0.0.1/website/categories/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/cloud/</loc>
+        <loc>http://127.0.0.1/website/categories/cloud/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/cloud/blog-posts/1/</loc>
+        <loc>http://127.0.0.1/website/categories/cloud/blog-posts/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/community/</loc>
+        <loc>http://127.0.0.1/website/categories/community/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/community/blog-posts/1/</loc>
+        <loc>http://127.0.0.1/website/categories/community/blog-posts/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/foundation/</loc>
+        <loc>http://127.0.0.1/website/categories/foundation/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/foundation/blog-posts/1/</loc>
+        <loc>http://127.0.0.1/website/categories/foundation/blog-posts/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/foundation/blog-posts/2/</loc>
+        <loc>http://127.0.0.1/website/categories/foundation/blog-posts/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/foundation/blog-posts/3/</loc>
+        <loc>http://127.0.0.1/website/categories/foundation/blog-posts/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/foundation/blog-posts/4/</loc>
+        <loc>http://127.0.0.1/website/categories/foundation/blog-posts/4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/foundation/blog-posts/5/</loc>
+        <loc>http://127.0.0.1/website/categories/foundation/blog-posts/5/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/technology/</loc>
+        <loc>http://127.0.0.1/website/categories/technology/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/technology/blog-posts/1/</loc>
+        <loc>http://127.0.0.1/website/categories/technology/blog-posts/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/use-cases/</loc>
+        <loc>http://127.0.0.1/website/categories/use-cases/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/categories/use-cases/blog-posts/1/</loc>
+        <loc>http://127.0.0.1/website/categories/use-cases/blog-posts/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/cloud/</loc>
+        <loc>http://127.0.0.1/website/cloud/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/community/</loc>
+        <loc>http://127.0.0.1/website/community/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/developer/</loc>
+        <loc>http://127.0.0.1/website/developer/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/developer/automation/</loc>
+        <loc>http://127.0.0.1/website/developer/automation/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/developer/blockchain/</loc>
+        <loc>http://127.0.0.1/website/developer/blockchain/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/developer/os/</loc>
+        <loc>http://127.0.0.1/website/developer/os/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/developer/planetarynw/</loc>
+        <loc>http://127.0.0.1/website/developer/planetarynw/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/developer/qsfs/</loc>
+        <loc>http://127.0.0.1/website/developer/qsfs/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/developer/tooling/</loc>
+        <loc>http://127.0.0.1/website/developer/tooling/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/ecosystem/</loc>
+        <loc>http://127.0.0.1/website/ecosystem/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/ecosystem/daos/</loc>
+        <loc>http://127.0.0.1/website/ecosystem/daos/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/ecosystem/daos/ourworld-dao/</loc>
+        <loc>http://127.0.0.1/website/ecosystem/daos/ourworld-dao/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/faq/</loc>
+        <loc>http://127.0.0.1/website/faq/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/faq/q/</loc>
+        <loc>http://127.0.0.1/website/faq/q/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/faq/q1/</loc>
+        <loc>http://127.0.0.1/website/faq/q1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/faq/q2/</loc>
+        <loc>http://127.0.0.1/website/faq/q2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/faq/q3/</loc>
+        <loc>http://127.0.0.1/website/faq/q3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/faq/q4/</loc>
+        <loc>http://127.0.0.1/website/faq/q4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/faq/q5/</loc>
+        <loc>http://127.0.0.1/website/faq/q5/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/faq/q6/</loc>
+        <loc>http://127.0.0.1/website/faq/q6/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/faq/q7/</loc>
+        <loc>http://127.0.0.1/website/faq/q7/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farm/</loc>
+        <loc>http://127.0.0.1/website/farm/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q1/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q10/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q10/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q11/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q11/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q12/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q12/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q13/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q13/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q14/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q14/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q15/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q15/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q2/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q3/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q4/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q5/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q5/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q6/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q6/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q7/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q7/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q8/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q8/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/farmfaq/q9/</loc>
+        <loc>http://127.0.0.1/website/farmfaq/q9/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/footer/</loc>
+        <loc>http://127.0.0.1/website/footer/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/grid/</loc>
+        <loc>http://127.0.0.1/website/grid/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/header/</loc>
+        <loc>http://127.0.0.1/website/header/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/header/index-copy/</loc>
+        <loc>http://127.0.0.1/website/header/index-copy/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/join-us/</loc>
+        <loc>http://127.0.0.1/website/join-us/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/join-us/positions/</loc>
+        <loc>http://127.0.0.1/website/join-us/positions/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/join-us/positions/blockchain-engineer/</loc>
+        <loc>http://127.0.0.1/website/join-us/positions/blockchain-engineer/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/join-us/positions/community-builder/</loc>
+        <loc>http://127.0.0.1/website/join-us/positions/community-builder/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/join-us/positions/graphic-designer/</loc>
+        <loc>http://127.0.0.1/website/join-us/positions/graphic-designer/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/join-us/positions/human-resources/</loc>
+        <loc>http://127.0.0.1/website/join-us/positions/human-resources/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/join-us/positions/new-item/</loc>
+        <loc>http://127.0.0.1/website/join-us/positions/new-item/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/join-us/positions/ourworld-ambassador/</loc>
+        <loc>http://127.0.0.1/website/join-us/positions/ourworld-ambassador/</loc>
         <lastmod>2019-04-11T20:33:00-05:00</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/</loc>
+        <loc>http://127.0.0.1/website/memberships/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/aci-members/</loc>
+        <loc>http://127.0.0.1/website/memberships/aci-members/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/aci-members/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/aci-members/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/aci-members/people/memberships/2/</loc>
+        <loc>http://127.0.0.1/website/memberships/aci-members/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/aci-members/people/memberships/3/</loc>
+        <loc>http://127.0.0.1/website/memberships/aci-members/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/aci-members/people/memberships/4/</loc>
+        <loc>http://127.0.0.1/website/memberships/aci-members/people/memberships/4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/aci-members/people/memberships/5/</loc>
+        <loc>http://127.0.0.1/website/memberships/aci-members/people/memberships/5/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/aci-members/people/memberships/6/</loc>
+        <loc>http://127.0.0.1/website/memberships/aci-members/people/memberships/6/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/aci/</loc>
+        <loc>http://127.0.0.1/website/memberships/aci/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/aci/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/aci/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/aci/people/memberships/2/</loc>
+        <loc>http://127.0.0.1/website/memberships/aci/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/ambassadors/</loc>
+        <loc>http://127.0.0.1/website/memberships/ambassadors/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/ambassadors/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/ambassadors/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/ambassadors/people/memberships/2/</loc>
+        <loc>http://127.0.0.1/website/memberships/ambassadors/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/cloud/</loc>
+        <loc>http://127.0.0.1/website/memberships/cloud/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/cloud/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/cloud/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/cloud/people/memberships/2/</loc>
+        <loc>http://127.0.0.1/website/memberships/cloud/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/cloud/people/memberships/3/</loc>
+        <loc>http://127.0.0.1/website/memberships/cloud/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/cofounders/</loc>
+        <loc>http://127.0.0.1/website/memberships/cofounders/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/cofounders/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/cofounders/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/cofounders/people/memberships/2/</loc>
+        <loc>http://127.0.0.1/website/memberships/cofounders/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/cofounders/people/memberships/3/</loc>
+        <loc>http://127.0.0.1/website/memberships/cofounders/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/cofounders/people/memberships/4/</loc>
+        <loc>http://127.0.0.1/website/memberships/cofounders/people/memberships/4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/farmers/</loc>
+        <loc>http://127.0.0.1/website/memberships/farmers/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/farmers/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/farmers/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/farmers/people/memberships/2/</loc>
+        <loc>http://127.0.0.1/website/memberships/farmers/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/farmers/people/memberships/3/</loc>
+        <loc>http://127.0.0.1/website/memberships/farmers/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/farming/</loc>
+        <loc>http://127.0.0.1/website/memberships/farming/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/farming/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/farming/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/10/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/10/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/11/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/11/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/12/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/12/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/13/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/13/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/14/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/14/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/2/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/3/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/4/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/5/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/5/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/6/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/6/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/7/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/7/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/8/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/8/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/foundation/people/memberships/9/</loc>
+        <loc>http://127.0.0.1/website/memberships/foundation/people/memberships/9/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/grid-guardians/</loc>
+        <loc>http://127.0.0.1/website/memberships/grid-guardians/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/grid-guardians/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/grid-guardians/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/partners/</loc>
+        <loc>http://127.0.0.1/website/memberships/partners/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/partners/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/partners/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/partners/people/memberships/2/</loc>
+        <loc>http://127.0.0.1/website/memberships/partners/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/partners/people/memberships/3/</loc>
+        <loc>http://127.0.0.1/website/memberships/partners/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/partners/people/memberships/4/</loc>
+        <loc>http://127.0.0.1/website/memberships/partners/people/memberships/4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/partners/people/memberships/5/</loc>
+        <loc>http://127.0.0.1/website/memberships/partners/people/memberships/5/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/tech/</loc>
+        <loc>http://127.0.0.1/website/memberships/tech/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/tech/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/tech/people/memberships/10/</loc>
+        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/10/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/tech/people/memberships/11/</loc>
+        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/11/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/tech/people/memberships/2/</loc>
+        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/tech/people/memberships/3/</loc>
+        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/tech/people/memberships/4/</loc>
+        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/tech/people/memberships/5/</loc>
+        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/5/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/tech/people/memberships/6/</loc>
+        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/6/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/tech/people/memberships/7/</loc>
+        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/7/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/tech/people/memberships/8/</loc>
+        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/8/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/tech/people/memberships/9/</loc>
+        <loc>http://127.0.0.1/website/memberships/tech/people/memberships/9/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/technology-council/</loc>
+        <loc>http://127.0.0.1/website/memberships/technology-council/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/technology-council/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/technology-council/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/technology-council/people/memberships/2/</loc>
+        <loc>http://127.0.0.1/website/memberships/technology-council/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/technology-council/people/memberships/3/</loc>
+        <loc>http://127.0.0.1/website/memberships/technology-council/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/twin/</loc>
+        <loc>http://127.0.0.1/website/memberships/twin/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/twin/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/twin/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/twin/people/memberships/2/</loc>
+        <loc>http://127.0.0.1/website/memberships/twin/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/twin/people/memberships/3/</loc>
+        <loc>http://127.0.0.1/website/memberships/twin/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/wisdom-council/</loc>
+        <loc>http://127.0.0.1/website/memberships/wisdom-council/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/wisdom-council/people/memberships/1/</loc>
+        <loc>http://127.0.0.1/website/memberships/wisdom-council/people/memberships/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/wisdom-council/people/memberships/2/</loc>
+        <loc>http://127.0.0.1/website/memberships/wisdom-council/people/memberships/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/memberships/wisdom-council/people/memberships/3/</loc>
+        <loc>http://127.0.0.1/website/memberships/wisdom-council/people/memberships/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/mission/</loc>
+        <loc>http://127.0.0.1/website/mission/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/news-category/</loc>
+        <loc>http://127.0.0.1/website/news-category/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/news-category/cloud/</loc>
+        <loc>http://127.0.0.1/website/news-category/cloud/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/news-category/cloud/news-card/1/</loc>
+        <loc>http://127.0.0.1/website/news-category/cloud/news-card/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/news-category/farming/</loc>
+        <loc>http://127.0.0.1/website/news-category/farming/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/news-category/farming/news-card/1/</loc>
+        <loc>http://127.0.0.1/website/news-category/farming/news-card/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/news-category/foundation/</loc>
+        <loc>http://127.0.0.1/website/news-category/foundation/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/news-category/foundation/news-card/1/</loc>
+        <loc>http://127.0.0.1/website/news-category/foundation/news-card/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/news-category/foundation/news-card/2/</loc>
+        <loc>http://127.0.0.1/website/news-category/foundation/news-card/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/news-category/foundation/news-card/3/</loc>
+        <loc>http://127.0.0.1/website/news-category/foundation/news-card/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/news-category/twin/</loc>
+        <loc>http://127.0.0.1/website/news-category/twin/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/news-category/twin/news-card/1/</loc>
+        <loc>http://127.0.0.1/website/news-category/twin/news-card/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/</loc>
+        <loc>http://127.0.0.1/website/newsroom/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/2020/</loc>
+        <loc>http://127.0.0.1/website/newsroom/2020/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/2020/11/</loc>
+        <loc>http://127.0.0.1/website/newsroom/2020/11/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/2020/11/post-08/</loc>
+        <loc>http://127.0.0.1/website/newsroom/2020/11/post-08/</loc>
         <lastmod>2020-11-17</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/2021/</loc>
+        <loc>http://127.0.0.1/website/newsroom/2021/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/2021/06/</loc>
+        <loc>http://127.0.0.1/website/newsroom/2021/06/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/2021/06/post-08/</loc>
+        <loc>http://127.0.0.1/website/newsroom/2021/06/post-08/</loc>
         <lastmod>2021-06-08</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/2022/</loc>
+        <loc>http://127.0.0.1/website/newsroom/2022/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/2022/02/</loc>
+        <loc>http://127.0.0.1/website/newsroom/2022/02/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/2022/02/post-06/</loc>
+        <loc>http://127.0.0.1/website/newsroom/2022/02/post-06/</loc>
         <lastmod>2022-02-28</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/2022/02/post-07/</loc>
+        <loc>http://127.0.0.1/website/newsroom/2022/02/post-07/</loc>
         <lastmod>2022-02-23</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/2022/02/post-08/</loc>
+        <loc>http://127.0.0.1/website/newsroom/2022/02/post-08/</loc>
         <lastmod>2022-02-22</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/2022/03/</loc>
+        <loc>http://127.0.0.1/website/newsroom/2022/03/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/2022/03/post-08/</loc>
+        <loc>http://127.0.0.1/website/newsroom/2022/03/post-08/</loc>
         <lastmod>2022-03-07</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/page/1/</loc>
+        <loc>http://127.0.0.1/website/newsroom/page/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/newsroom/page/2/</loc>
+        <loc>http://127.0.0.1/website/newsroom/page/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/partners-category/</loc>
+        <loc>http://127.0.0.1/website/partners-category/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/partners-category/aci/</loc>
+        <loc>http://127.0.0.1/website/partners-category/aci/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/partners-category/aci/partner-card/1/</loc>
+        <loc>http://127.0.0.1/website/partners-category/aci/partner-card/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/partners-category/foundation/</loc>
+        <loc>http://127.0.0.1/website/partners-category/foundation/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/partners-category/foundation/partner-card/1/</loc>
+        <loc>http://127.0.0.1/website/partners-category/foundation/partner-card/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/partners-category/foundation/partner-card/2/</loc>
+        <loc>http://127.0.0.1/website/partners-category/foundation/partner-card/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/partners/</loc>
+        <loc>http://127.0.0.1/website/partners/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/partners/casperlabs/</loc>
+        <loc>http://127.0.0.1/website/partners/casperlabs/</loc>
         <lastmod>2021-12-15</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/partners/digicorp-labs/</loc>
+        <loc>http://127.0.0.1/website/partners/digicorp-labs/</loc>
         <lastmod>2021-12-15</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/partners/own-cloud/</loc>
+        <loc>http://127.0.0.1/website/partners/own-cloud/</loc>
         <lastmod>2021-12-15</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/partners/page/1/</loc>
+        <loc>http://127.0.0.1/website/partners/page/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/partners/take-action-global/</loc>
+        <loc>http://127.0.0.1/website/partners/take-action-global/</loc>
         <lastmod>2021-12-15</lastmod>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/</loc>
+        <loc>http://127.0.0.1/website/people/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/abdelrahman-ghanem/</loc>
+        <loc>http://127.0.0.1/website/people/abdelrahman-ghanem/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/adnanfatayerji/</loc>
+        <loc>http://127.0.0.1/website/people/adnanfatayerji/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/ahmed-thabet/</loc>
+        <loc>http://127.0.0.1/website/people/ahmed-thabet/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/alexandre-hannelas/</loc>
+        <loc>http://127.0.0.1/website/people/alexandre-hannelas/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/andreashartl/</loc>
+        <loc>http://127.0.0.1/website/people/andreashartl/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/ashraf-fouda/</loc>
+        <loc>http://127.0.0.1/website/people/ashraf-fouda/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/atef-nazmy/</loc>
+        <loc>http://127.0.0.1/website/people/atef-nazmy/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/christopher-hutton/</loc>
+        <loc>http://127.0.0.1/website/people/christopher-hutton/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/claus-rosenberg-gotthard/</loc>
+        <loc>http://127.0.0.1/website/people/claus-rosenberg-gotthard/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/ehab-hassan/</loc>
+        <loc>http://127.0.0.1/website/people/ehab-hassan/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/ewald-weizenbauer/</loc>
+        <loc>http://127.0.0.1/website/people/ewald-weizenbauer/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/florian-fournier/</loc>
+        <loc>http://127.0.0.1/website/people/florian-fournier/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/geert-machtelinckx/</loc>
+        <loc>http://127.0.0.1/website/people/geert-machtelinckx/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/gloria-anne/</loc>
+        <loc>http://127.0.0.1/website/people/gloria-anne/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/hannah-cordes/</loc>
+        <loc>http://127.0.0.1/website/people/hannah-cordes/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/ingo-schildt/</loc>
+        <loc>http://127.0.0.1/website/people/ingo-schildt/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/ivan-coene/</loc>
+        <loc>http://127.0.0.1/website/people/ivan-coene/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/jan-de-landtsheer/</loc>
+        <loc>http://127.0.0.1/website/people/jan-de-landtsheer/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/jennifer-long/</loc>
+        <loc>http://127.0.0.1/website/people/jennifer-long/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/jonas-delrue/</loc>
+        <loc>http://127.0.0.1/website/people/jonas-delrue/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/jozua-van-der-deijl/</loc>
+        <loc>http://127.0.0.1/website/people/jozua-van-der-deijl/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/karoline-zizka/</loc>
+        <loc>http://127.0.0.1/website/people/karoline-zizka/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/ken-de-moor/</loc>
+        <loc>http://127.0.0.1/website/people/ken-de-moor/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/koen-timmers/</loc>
+        <loc>http://127.0.0.1/website/people/koen-timmers/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/kristof-de-spiegeleer/</loc>
+        <loc>http://127.0.0.1/website/people/kristof-de-spiegeleer/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/lee-smet/</loc>
+        <loc>http://127.0.0.1/website/people/lee-smet/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/libor-voncina/</loc>
+        <loc>http://127.0.0.1/website/people/libor-voncina/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/mamadou-kwidjim-toure/</loc>
+        <loc>http://127.0.0.1/website/people/mamadou-kwidjim-toure/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/mariza-wellesley-wesley/</loc>
+        <loc>http://127.0.0.1/website/people/mariza-wellesley-wesley/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/maxime-daniel/</loc>
+        <loc>http://127.0.0.1/website/people/maxime-daniel/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/medha-parlikar/</loc>
+        <loc>http://127.0.0.1/website/people/medha-parlikar/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/michael-wellesley-wesley/</loc>
+        <loc>http://127.0.0.1/website/people/michael-wellesley-wesley/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/nayer-sobhy/</loc>
+        <loc>http://127.0.0.1/website/people/nayer-sobhy/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/nickolay-babenko/</loc>
+        <loc>http://127.0.0.1/website/people/nickolay-babenko/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/owen-kemp/</loc>
+        <loc>http://127.0.0.1/website/people/owen-kemp/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/page/1/</loc>
+        <loc>http://127.0.0.1/website/people/page/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/page/2/</loc>
+        <loc>http://127.0.0.1/website/people/page/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/peter-van-der-henst/</loc>
+        <loc>http://127.0.0.1/website/people/peter-van-der-henst/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/pierre-van-hoorebeke/</loc>
+        <loc>http://127.0.0.1/website/people/pierre-van-hoorebeke/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/rajinder-singh-grewal/</loc>
+        <loc>http://127.0.0.1/website/people/rajinder-singh-grewal/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/reem-khamis/</loc>
+        <loc>http://127.0.0.1/website/people/reem-khamis/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/rob-van-mieghem/</loc>
+        <loc>http://127.0.0.1/website/people/rob-van-mieghem/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/rudy-bouwman/</loc>
+        <loc>http://127.0.0.1/website/people/rudy-bouwman/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/sabrina-sadik/</loc>
+        <loc>http://127.0.0.1/website/people/sabrina-sadik/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/sacha-obeegadoo/</loc>
+        <loc>http://127.0.0.1/website/people/sacha-obeegadoo/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/sam-taggart/</loc>
+        <loc>http://127.0.0.1/website/people/sam-taggart/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/samar-adel/</loc>
+        <loc>http://127.0.0.1/website/people/samar-adel/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/scott-yeager/</loc>
+        <loc>http://127.0.0.1/website/people/scott-yeager/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/people/weynand-kuijpers/</loc>
+        <loc>http://127.0.0.1/website/people/weynand-kuijpers/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/roles/</loc>
+        <loc>http://127.0.0.1/website/roles/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/roles/create/</loc>
+        <loc>http://127.0.0.1/website/roles/create/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/roles/create/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/roles/create/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/roles/develop/</loc>
+        <loc>http://127.0.0.1/website/roles/develop/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/roles/develop/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/roles/develop/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/roles/inspire/</loc>
+        <loc>http://127.0.0.1/website/roles/inspire/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/roles/inspire/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/roles/inspire/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/roles/organize/</loc>
+        <loc>http://127.0.0.1/website/roles/organize/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/roles/organize/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/roles/organize/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/support/</loc>
+        <loc>http://127.0.0.1/website/support/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/</loc>
+        <loc>http://127.0.0.1/website/tags/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/blockchain/</loc>
+        <loc>http://127.0.0.1/website/tags/blockchain/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/blockchain/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/blockchain/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/blockchain/join-us/2/</loc>
+        <loc>http://127.0.0.1/website/tags/blockchain/join-us/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/community/</loc>
+        <loc>http://127.0.0.1/website/tags/community/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/community/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/community/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/community/join-us/10/</loc>
+        <loc>http://127.0.0.1/website/tags/community/join-us/10/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/community/join-us/2/</loc>
+        <loc>http://127.0.0.1/website/tags/community/join-us/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/community/join-us/3/</loc>
+        <loc>http://127.0.0.1/website/tags/community/join-us/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/community/join-us/4/</loc>
+        <loc>http://127.0.0.1/website/tags/community/join-us/4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/community/join-us/5/</loc>
+        <loc>http://127.0.0.1/website/tags/community/join-us/5/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/community/join-us/6/</loc>
+        <loc>http://127.0.0.1/website/tags/community/join-us/6/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/community/join-us/7/</loc>
+        <loc>http://127.0.0.1/website/tags/community/join-us/7/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/community/join-us/8/</loc>
+        <loc>http://127.0.0.1/website/tags/community/join-us/8/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/community/join-us/9/</loc>
+        <loc>http://127.0.0.1/website/tags/community/join-us/9/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/dapps/</loc>
+        <loc>http://127.0.0.1/website/tags/dapps/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/dapps/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/dapps/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/farming/</loc>
+        <loc>http://127.0.0.1/website/tags/farming/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/farming/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/farming/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/farming/join-us/2/</loc>
+        <loc>http://127.0.0.1/website/tags/farming/join-us/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/farming/join-us/3/</loc>
+        <loc>http://127.0.0.1/website/tags/farming/join-us/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/farming/join-us/4/</loc>
+        <loc>http://127.0.0.1/website/tags/farming/join-us/4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/farming/join-us/5/</loc>
+        <loc>http://127.0.0.1/website/tags/farming/join-us/5/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/farming/join-us/6/</loc>
+        <loc>http://127.0.0.1/website/tags/farming/join-us/6/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/farming/join-us/7/</loc>
+        <loc>http://127.0.0.1/website/tags/farming/join-us/7/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/freeflow/</loc>
+        <loc>http://127.0.0.1/website/tags/freeflow/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/freeflow/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/freeflow/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/grid/</loc>
+        <loc>http://127.0.0.1/website/tags/grid/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/grid/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/grid/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/impact/</loc>
+        <loc>http://127.0.0.1/website/tags/impact/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/impact/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/impact/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/interview/</loc>
+        <loc>http://127.0.0.1/website/tags/interview/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/interview/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/interview/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/interview/join-us/2/</loc>
+        <loc>http://127.0.0.1/website/tags/interview/join-us/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/interview/join-us/3/</loc>
+        <loc>http://127.0.0.1/website/tags/interview/join-us/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/interview/join-us/4/</loc>
+        <loc>http://127.0.0.1/website/tags/interview/join-us/4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/interview/join-us/5/</loc>
+        <loc>http://127.0.0.1/website/tags/interview/join-us/5/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/interview/join-us/6/</loc>
+        <loc>http://127.0.0.1/website/tags/interview/join-us/6/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/interview/join-us/7/</loc>
+        <loc>http://127.0.0.1/website/tags/interview/join-us/7/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/metaverse/</loc>
+        <loc>http://127.0.0.1/website/tags/metaverse/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/metaverse/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/metaverse/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/news/</loc>
+        <loc>http://127.0.0.1/website/tags/news/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/news/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/news/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/news/join-us/2/</loc>
+        <loc>http://127.0.0.1/website/tags/news/join-us/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/partner/</loc>
+        <loc>http://127.0.0.1/website/tags/partner/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/partner/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/partner/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/peer-to-peer/</loc>
+        <loc>http://127.0.0.1/website/tags/peer-to-peer/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/peer-to-peer/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/peer-to-peer/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/source-code/</loc>
+        <loc>http://127.0.0.1/website/tags/source-code/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/source-code/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/source-code/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/technology/</loc>
+        <loc>http://127.0.0.1/website/tags/technology/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/technology/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/technology/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/technology/join-us/2/</loc>
+        <loc>http://127.0.0.1/website/tags/technology/join-us/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/threefold-grid/</loc>
+        <loc>http://127.0.0.1/website/tags/threefold-grid/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/threefold-grid/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/threefold-grid/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/threefold-grid/join-us/2/</loc>
+        <loc>http://127.0.0.1/website/tags/threefold-grid/join-us/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/threefold-grid/join-us/3/</loc>
+        <loc>http://127.0.0.1/website/tags/threefold-grid/join-us/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/threefold-grid/join-us/4/</loc>
+        <loc>http://127.0.0.1/website/tags/threefold-grid/join-us/4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/threefold-grid/join-us/5/</loc>
+        <loc>http://127.0.0.1/website/tags/threefold-grid/join-us/5/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/threefold-grid/join-us/6/</loc>
+        <loc>http://127.0.0.1/website/tags/threefold-grid/join-us/6/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/update/</loc>
+        <loc>http://127.0.0.1/website/tags/update/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/update/join-us/1/</loc>
+        <loc>http://127.0.0.1/website/tags/update/join-us/1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/update/join-us/2/</loc>
+        <loc>http://127.0.0.1/website/tags/update/join-us/2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/update/join-us/3/</loc>
+        <loc>http://127.0.0.1/website/tags/update/join-us/3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/update/join-us/4/</loc>
+        <loc>http://127.0.0.1/website/tags/update/join-us/4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/update/join-us/5/</loc>
+        <loc>http://127.0.0.1/website/tags/update/join-us/5/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/update/join-us/6/</loc>
+        <loc>http://127.0.0.1/website/tags/update/join-us/6/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/update/join-us/7/</loc>
+        <loc>http://127.0.0.1/website/tags/update/join-us/7/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tags/update/join-us/8/</loc>
+        <loc>http://127.0.0.1/website/tags/update/join-us/8/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tft/</loc>
+        <loc>http://127.0.0.1/website/tft/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q1/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q1/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q10/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q10/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q11/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q11/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q12/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q12/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q13/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q13/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q14/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q14/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q15/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q15/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q2/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q2/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q3/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q3/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q4/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q4/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q5/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q5/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q6/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q6/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q7/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q7/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q8/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q8/</loc>
     </url>
     <url>
-        <loc>https://www3.threefold.io/tftfaq/q9/</loc>
+        <loc>http://127.0.0.1/website/tftfaq/q9/</loc>
     </url>
 </urlset>
