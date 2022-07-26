@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>zola - partner</title>
 	<subtitle>Our global digital backbone</subtitle>
-	<link href="mywebsite.com/tags/partner/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="mywebsite.com"/>
+	<link href="www3.myzolatest.com/tags/partner/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="www3.myzolatest.com"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-03-07T00:00:00+00:00</updated>
-	<id>mywebsite.com/tags/partner/atom.xml</id>
+	<id>www3.myzolatest.com/tags/partner/atom.xml</id>
 	<entry xml:lang="en">
 		<title>Paradise Hills Property Development and ThreeFold to Establish the World’s First Neighborhood Cloud in Dubai</title>
 		<published>2022-03-07T00:00:00+00:00</published>
 		<updated>2022-03-07T00:00:00+00:00</updated>
-		<link rel="alternate" href="mywebsite.com/newsroom/2022/03/post-08/" type="text/html"/>
-		<id>mywebsite.com/newsroom/2022/03/post-08/</id>
+		<link rel="alternate" href="www3.myzolatest.com/newsroom/2022/03/post-08/" type="text/html"/>
+		<id>www3.myzolatest.com/newsroom/2022/03/post-08/</id>
 		<content type="html">&lt;p&gt;DUBAI, United Arab Emirates | Real Estate developer Paradise Hills and ThreeFold have announced today their plans to add dedicated servers (3Nodes) to approximately 170 homes in the Paradise Hill project, creating the world’s first neighborhood Cloud Network on the ThreeFold Grid.&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;Through this historic partnership, Paradise Hills Development and ThreeFold aim to provide every homeowner of the gated residence with a pre-installed 3Node, a dedicated server that provides the edge computing and internet storage needed to run decentralized applications and internet services. The initiative will provide residents, businesses, developers and the government with a secure and highly available sovereign cloud infrastructure to store and process their data locally.&lt;&#x2F;p&gt;
@@ -34,8 +34,8 @@
 		<title>A Conversation with Jeroen Douglas</title>
 		<published>2022-02-22T00:00:00+00:00</published>
 		<updated>2022-02-22T00:00:00+00:00</updated>
-		<link rel="alternate" href="mywebsite.com/newsroom/2022/02/post-08/" type="text/html"/>
-		<id>mywebsite.com/newsroom/2022/02/post-08/</id>
+		<link rel="alternate" href="www3.myzolatest.com/newsroom/2022/02/post-08/" type="text/html"/>
+		<id>www3.myzolatest.com/newsroom/2022/02/post-08/</id>
 		<content type="html">&lt;p&gt;👂 &lt;strong&gt;Lend us your ear!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;&lt;em&gt;Is it possible to make a password-free Internet for one dollar owned by data smallholders? How to overcome the digital divide and reclaim the Internet from big tech?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;

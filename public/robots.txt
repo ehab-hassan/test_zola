@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: mywebsite.com/sitemap.xml
+Sitemap: www3.myzolatest.com/sitemap.xml

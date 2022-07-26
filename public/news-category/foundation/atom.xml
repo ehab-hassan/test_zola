@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>zola - foundation</title>
 	<subtitle>Our global digital backbone</subtitle>
-	<link href="mywebsite.com/news-category/foundation/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="mywebsite.com"/>
+	<link href="www3.myzolatest.com/news-category/foundation/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="www3.myzolatest.com"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-03-07T00:00:00+00:00</updated>
-	<id>mywebsite.com/news-category/foundation/atom.xml</id>
+	<id>www3.myzolatest.com/news-category/foundation/atom.xml</id>
 	<entry xml:lang="en">
 		<title>Paradise Hills Property Development and ThreeFold to Establish the World’s First Neighborhood Cloud in Dubai</title>
 		<published>2022-03-07T00:00:00+00:00</published>
 		<updated>2022-03-07T00:00:00+00:00</updated>
-		<link rel="alternate" href="mywebsite.com/newsroom/2022/03/post-08/" type="text/html"/>
-		<id>mywebsite.com/newsroom/2022/03/post-08/</id>
+		<link rel="alternate" href="www3.myzolatest.com/newsroom/2022/03/post-08/" type="text/html"/>
+		<id>www3.myzolatest.com/newsroom/2022/03/post-08/</id>
 		<content type="html">&lt;p&gt;DUBAI, United Arab Emirates | Real Estate developer Paradise Hills and ThreeFold have announced today their plans to add dedicated servers (3Nodes) to approximately 170 homes in the Paradise Hill project, creating the world’s first neighborhood Cloud Network on the ThreeFold Grid.&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;Through this historic partnership, Paradise Hills Development and ThreeFold aim to provide every homeowner of the gated residence with a pre-installed 3Node, a dedicated server that provides the edge computing and internet storage needed to run decentralized applications and internet services. The initiative will provide residents, businesses, developers and the government with a secure and highly available sovereign cloud infrastructure to store and process their data locally.&lt;&#x2F;p&gt;
@@ -34,8 +34,8 @@
 		<title>ThreeFold Weekly! Volume Eight</title>
 		<published>2022-02-28T00:00:00+00:00</published>
 		<updated>2022-02-28T00:00:00+00:00</updated>
-		<link rel="alternate" href="mywebsite.com/newsroom/2022/02/post-06/" type="text/html"/>
-		<id>mywebsite.com/newsroom/2022/02/post-06/</id>
+		<link rel="alternate" href="www3.myzolatest.com/newsroom/2022/02/post-06/" type="text/html"/>
+		<id>www3.myzolatest.com/newsroom/2022/02/post-06/</id>
 		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! February 28th Edition (Volume Eight)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;Your weekly ThreeFold digest: The validator verification process is underway, farming migration continues and Titan shipping picks back up, re-sharing an enlightening conversation, updates on the $TFT and tech (product) side, and more.&lt;&#x2F;p&gt;
@@ -49,8 +49,8 @@
 		<title>The Validator Verification Process is Underway</title>
 		<published>2022-02-23T00:00:00+00:00</published>
 		<updated>2022-02-23T00:00:00+00:00</updated>
-		<link rel="alternate" href="mywebsite.com/newsroom/2022/02/post-07/" type="text/html"/>
-		<id>mywebsite.com/newsroom/2022/02/post-07/</id>
+		<link rel="alternate" href="www3.myzolatest.com/newsroom/2022/02/post-07/" type="text/html"/>
+		<id>www3.myzolatest.com/newsroom/2022/02/post-07/</id>
 		<content type="html">&lt;p&gt;🚨 &lt;strong&gt;The ThreeFold Validator Verification Process&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;If you’ve submitted your interest for either an &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;dao&#x2F;validators-signup-l0&#x2F;84&quot;&gt;L0&lt;&#x2F;a&gt; or &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;dao&#x2F;validators-signup-l2&#x2F;83&quot;&gt;L2&lt;&#x2F;a&gt; Validator, we are now pleased to share the verification process with you.&lt;&#x2F;p&gt;
@@ -66,8 +66,8 @@
 		<title>A Conversation with Jeroen Douglas</title>
 		<published>2022-02-22T00:00:00+00:00</published>
 		<updated>2022-02-22T00:00:00+00:00</updated>
-		<link rel="alternate" href="mywebsite.com/newsroom/2022/02/post-08/" type="text/html"/>
-		<id>mywebsite.com/newsroom/2022/02/post-08/</id>
+		<link rel="alternate" href="www3.myzolatest.com/newsroom/2022/02/post-08/" type="text/html"/>
+		<id>www3.myzolatest.com/newsroom/2022/02/post-08/</id>
 		<content type="html">&lt;p&gt;👂 &lt;strong&gt;Lend us your ear!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;&lt;em&gt;Is it possible to make a password-free Internet for one dollar owned by data smallholders? How to overcome the digital divide and reclaim the Internet from big tech?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -83,8 +83,8 @@
 		<title>3,000+ 3Node Pre-Registrations for Batch 3</title>
 		<published>2021-06-08T00:00:00+00:00</published>
 		<updated>2021-06-08T00:00:00+00:00</updated>
-		<link rel="alternate" href="mywebsite.com/newsroom/2021/06/post-08/" type="text/html"/>
-		<id>mywebsite.com/newsroom/2021/06/post-08/</id>
+		<link rel="alternate" href="www3.myzolatest.com/newsroom/2021/06/post-08/" type="text/html"/>
+		<id>www3.myzolatest.com/newsroom/2021/06/post-08/</id>
 		<content type="html">&lt;p&gt;Over the past days we have received &lt;strong&gt;more than 3,000 pre-registrations&lt;&#x2F;strong&gt; for the Titan V2 3Node!
 &lt;br&#x2F;&gt;
 &lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
@@ -98,8 +98,8 @@
 		<title>3Bot Connect renamed to ThreeFold Connect</title>
 		<published>2020-11-17T00:00:00+00:00</published>
 		<updated>2020-11-17T00:00:00+00:00</updated>
-		<link rel="alternate" href="mywebsite.com/newsroom/2020/11/post-08/" type="text/html"/>
-		<id>mywebsite.com/newsroom/2020/11/post-08/</id>
+		<link rel="alternate" href="www3.myzolatest.com/newsroom/2020/11/post-08/" type="text/html"/>
+		<id>www3.myzolatest.com/newsroom/2020/11/post-08/</id>
 		<content type="html">&lt;p&gt;Quick update!
 &lt;br&#x2F;&gt;
 &lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
