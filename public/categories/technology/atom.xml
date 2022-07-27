@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>ThreeFold - technology</title>
 	<subtitle>Our global digital backbone</subtitle>
-	<link href="https://www3.threefold.io/categories/technology/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://www3.threefold.io"/>
+	<link href="https://ehab-hassan.github.io/test_zola/categories/technology/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://ehab-hassan.github.io/test_zola"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2021-12-15T00:00:00+00:00</updated>
-	<id>https://www3.threefold.io/categories/technology/atom.xml</id>
+	<id>https://ehab-hassan.github.io/test_zola/categories/technology/atom.xml</id>
 	<entry xml:lang="en">
 		<title>The ThreeFold Blockchain</title>
 		<published>2021-12-15T00:00:00+00:00</published>
 		<updated>2021-12-15T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/blog/2021/12/post-7/" type="text/html"/>
-		<id>https://www3.threefold.io/blog/2021/12/post-7/</id>
+		<link rel="alternate" href="https://ehab-hassan.github.io/test_zola/blog/2021/12/post-7/" type="text/html"/>
+		<id>https://ehab-hassan.github.io/test_zola/blog/2021/12/post-7/</id>
 		<content type="html">&lt;p&gt;The &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;what-is-new-in-tfgrid-3-0&#x2F;1133&#x2F;1&quot;&gt;third release&lt;&#x2F;a&gt; of the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;technology&#x2F;threefold__threefold_grid&quot;&gt;ThreeFold Grid&lt;&#x2F;a&gt; represents a major step in the decentralization of the People’s Internet with the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;technology&#x2F;threefold__smartcontract_tfgrid3&quot;&gt;Smart Contract for IT&lt;&#x2F;a&gt; coming to life on the ThreeFold Blockchain (aka “TF Chain”). Built on the Substrate framework, TF Chain represents the layer-0 for all current and future technologies to provision decentralized Internet capacity. &lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;But what is Substrate to begin with? And what exactly does our TF Chain do?&lt;&#x2F;p&gt;
