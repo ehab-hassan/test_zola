@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-	<title>zola - cloud</title>
+	<title>ThreeFold - cloud</title>
 	<subtitle>Our global digital backbone</subtitle>
-	<link href="https://www3.threefold.io/test_zola/news-category/cloud/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://www3.threefold.io/test_zola"/>
+	<link href="https://www3.threefold.io/news-category/cloud/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://www3.threefold.io"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2021-06-08T00:00:00+00:00</updated>
-	<id>https://www3.threefold.io/test_zola/news-category/cloud/atom.xml</id>
+	<id>https://www3.threefold.io/news-category/cloud/atom.xml</id>
 	<entry xml:lang="en">
 		<title>3,000+ 3Node Pre-Registrations for Batch 3</title>
 		<published>2021-06-08T00:00:00+00:00</published>
 		<updated>2021-06-08T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/newsroom/2021/06/post-08/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/newsroom/2021/06/post-08/</id>
+		<link rel="alternate" href="https://www3.threefold.io/newsroom/2021/06/post-08/" type="text/html"/>
+		<id>https://www3.threefold.io/newsroom/2021/06/post-08/</id>
 		<content type="html">&lt;p&gt;Over the past days we have received &lt;strong&gt;more than 3,000 pre-registrations&lt;&#x2F;strong&gt; for the Titan V2 3Node!
 &lt;br&#x2F;&gt;
 &lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
@@ -26,8 +26,8 @@
 		<title>3Bot Connect renamed to ThreeFold Connect</title>
 		<published>2020-11-17T00:00:00+00:00</published>
 		<updated>2020-11-17T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/newsroom/2020/11/post-08/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/newsroom/2020/11/post-08/</id>
+		<link rel="alternate" href="https://www3.threefold.io/newsroom/2020/11/post-08/" type="text/html"/>
+		<id>https://www3.threefold.io/newsroom/2020/11/post-08/</id>
 		<content type="html">&lt;p&gt;Quick update!
 &lt;br&#x2F;&gt;
 &lt;br&#x2F;&gt;&lt;&#x2F;p&gt;

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-	<title>zola - update</title>
+	<title>ThreeFold - update</title>
 	<subtitle>Our global digital backbone</subtitle>
-	<link href="https://www3.threefold.io/test_zola/tags/update/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://www3.threefold.io/test_zola"/>
+	<link href="https://www3.threefold.io/tags/update/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://www3.threefold.io"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-04-05T00:00:00+00:00</updated>
-	<id>https://www3.threefold.io/test_zola/tags/update/atom.xml</id>
+	<id>https://www3.threefold.io/tags/update/atom.xml</id>
 	<entry xml:lang="en">
 		<title>The Internet that connects us also manipulates us. In search of a better future.</title>
 		<published>2022-04-05T00:00:00+00:00</published>
 		<updated>2022-04-05T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/blog/2022/05/post-10/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/blog/2022/05/post-10/</id>
+		<link rel="alternate" href="https://www3.threefold.io/blog/2022/05/post-10/" type="text/html"/>
+		<id>https://www3.threefold.io/blog/2022/05/post-10/</id>
 		<content type="html">&lt;p&gt;The Internet is one of humanity’s &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;coincodex.com&#x2F;article&#x2F;14083&#x2F;threefold-host-the-cloud-at-your-house&#x2F;&quot;&gt;greatest inventions&lt;&#x2F;a&gt;. In its early days, it used to be &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;theconversation.com&#x2F;web-3-0-the-decentralised-web-promises-to-make-the-internet-free-again-113139&quot;&gt;free and decentralized&lt;&#x2F;a&gt; by nature. No single entity was able to control access to the web as it was built on the foundation of a peer-to-peer network of nodes owned by developers and researchers. Until the dot-com era. Throughout the early 2000s, large corporations took over the web. New platforms like YouTube and MySpace were launched and new infrastructure needed to be built at an extreme pace, starting the data revolution and changing the digital landscape forever. &lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;Twenty years down the line, the Internet’s architecture has become highly centralized – owned by a handful of large corporations that act as the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.newyorker.com&#x2F;magazine&#x2F;2017&#x2F;08&#x2F;28&#x2F;who-owns-the-internet&quot;&gt;gatekeepers&lt;&#x2F;a&gt; of our digital world. What was once an open and free platform accessible to anyone has long since built up barriers and lost its neutrality. Users are trapped in a cyberspace that exploits their personal data and allows censorship, hate speech, disinformation and political targeting to thrive. &lt;&#x2F;p&gt;
@@ -42,8 +42,8 @@
 		<title>ThreeFold Weekly! April 5th, 2022 (Vol 13)</title>
 		<published>2022-04-05T00:00:00+00:00</published>
 		<updated>2022-04-05T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/blog/2022/05/post-11/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/blog/2022/05/post-11/</id>
+		<link rel="alternate" href="https://www3.threefold.io/blog/2022/05/post-11/" type="text/html"/>
+		<id>https://www3.threefold.io/blog/2022/05/post-11/</id>
 		<content type="html">&lt;h2 id=&quot;major-threefold-news&quot;&gt;Major ThreeFold News:&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Last week, Gulf Land Property hosted the  &lt;strong&gt;Paradise Hills Award Gala with over 160 people&lt;&#x2F;strong&gt;  including home owners, contractors and supporting project developers. During the Gala, ThreeFold’s  &lt;strong&gt;Adnan Fatayerji and Weynand Kuijpers&lt;&#x2F;strong&gt;  had the chance to present ThreeFold to the audience with an overwhelmingly positive response and support. Moreover, the two co-founders accepted  &lt;strong&gt;an award for ThreeFold&lt;&#x2F;strong&gt;  as an  &lt;strong&gt;integral technology partner&lt;&#x2F;strong&gt;  of Paradise Hills Development and establishing the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;news&#x2F;post&#x2F;paradise_hills&#x2F;&quot;&gt;world’s first community-driven cloud&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -86,8 +86,8 @@
 		<title>Connecting the Dots: ThreeFold plans to scale globally</title>
 		<published>2022-03-29T00:00:00+00:00</published>
 		<updated>2022-03-29T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/blog/2022/03/post-9/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/blog/2022/03/post-9/</id>
+		<link rel="alternate" href="https://www3.threefold.io/blog/2022/03/post-9/" type="text/html"/>
+		<id>https://www3.threefold.io/blog/2022/03/post-9/</id>
 		<content type="html">&lt;p&gt;ThreeFold started as an idea about ten years ago and is now manifesting itself into the most comprehensive peer-to-peer Internet and cloud infrastructure in the world. The potential of our technology to revolutionize digitization globally is endless and limited only to our collective imagination. In this blog, we share our ‘glocal’ strategy on how we will build our ecosystem, and the exciting opportunities opening up around the world for those interested to join us!&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;Let’s start with some background. Today’s Internet is global*. However, it is incredibly centralized and vulnerable. ThreeFold aims to decentralize its infrastructure,  empower people to be sovereign, and accelerate the world’s transition towards open-source systems to build a more inclusive and fair future for all. &lt;&#x2F;p&gt;
@@ -129,8 +129,8 @@
 		<title>ThreeFold Weekly! March 29th, 2022 (Vol 12)</title>
 		<published>2022-03-29T00:00:00+00:00</published>
 		<updated>2022-03-29T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/blog/featured/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/blog/featured/</id>
+		<link rel="alternate" href="https://www3.threefold.io/blog/featured/" type="text/html"/>
+		<id>https://www3.threefold.io/blog/featured/</id>
 		<content type="html">&lt;p&gt;&lt;em&gt;We have a new format for ThreeFold Weekly, now on our blog. If you’d like to review any of the first eleven editions, please find them on &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;ecosystem-developments&#x2F;41&quot;&gt;our forum&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;major-threefold-news&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#major-threefold-news&quot; aria-label=&quot;Anchor link for: major-threefold-news&quot;&gt;🔗&lt;&#x2F;a&gt;Major ThreeFold News:&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -198,8 +198,8 @@
 		<title>Co-Realizing the Promise</title>
 		<published>2022-03-21T00:00:00+00:00</published>
 		<updated>2022-03-21T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/blog/2022/03/post-8/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/blog/2022/03/post-8/</id>
+		<link rel="alternate" href="https://www3.threefold.io/blog/2022/03/post-8/" type="text/html"/>
+		<id>https://www3.threefold.io/blog/2022/03/post-8/</id>
 		<content type="html">&lt;p&gt;What was once a massive global movement sparked by the idealism of free culture and the net, is now hosting a wave of unintended consequences that may destroy sovereignty and freedom as we know it. The digital revolution and the “democratization” of the Internet promised to lead us to a prosperous and equitable world, one that brought us closer together, eliminating both physical and virtual boundaries.&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;&lt;em&gt;“We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth… a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity… Your legal concepts of property, expression, identity, movement, and context do not apply to us. They are all based on matter, and there is no matter here.” –  Declaration of independence of Cyberspace – John Perry Barlow – Davos, 1996.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
@@ -233,8 +233,8 @@
 		<title>Paradise Hills Property Development and ThreeFold to Establish the World’s First Neighborhood Cloud in Dubai</title>
 		<published>2022-03-07T00:00:00+00:00</published>
 		<updated>2022-03-07T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/newsroom/2022/03/post-08/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/newsroom/2022/03/post-08/</id>
+		<link rel="alternate" href="https://www3.threefold.io/newsroom/2022/03/post-08/" type="text/html"/>
+		<id>https://www3.threefold.io/newsroom/2022/03/post-08/</id>
 		<content type="html">&lt;p&gt;DUBAI, United Arab Emirates | Real Estate developer Paradise Hills and ThreeFold have announced today their plans to add dedicated servers (3Nodes) to approximately 170 homes in the Paradise Hill project, creating the world’s first neighborhood Cloud Network on the ThreeFold Grid.&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;Through this historic partnership, Paradise Hills Development and ThreeFold aim to provide every homeowner of the gated residence with a pre-installed 3Node, a dedicated server that provides the edge computing and internet storage needed to run decentralized applications and internet services. The initiative will provide residents, businesses, developers and the government with a secure and highly available sovereign cloud infrastructure to store and process their data locally.&lt;&#x2F;p&gt;
@@ -256,8 +256,8 @@
 		<title>ThreeFold Weekly! Volume Eight</title>
 		<published>2022-02-28T00:00:00+00:00</published>
 		<updated>2022-02-28T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/newsroom/2022/02/post-06/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/newsroom/2022/02/post-06/</id>
+		<link rel="alternate" href="https://www3.threefold.io/newsroom/2022/02/post-06/" type="text/html"/>
+		<id>https://www3.threefold.io/newsroom/2022/02/post-06/</id>
 		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! February 28th Edition (Volume Eight)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;Your weekly ThreeFold digest: The validator verification process is underway, farming migration continues and Titan shipping picks back up, re-sharing an enlightening conversation, updates on the $TFT and tech (product) side, and more.&lt;&#x2F;p&gt;
@@ -271,8 +271,8 @@
 		<title>The Validator Verification Process is Underway</title>
 		<published>2022-02-23T00:00:00+00:00</published>
 		<updated>2022-02-23T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/newsroom/2022/02/post-07/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/newsroom/2022/02/post-07/</id>
+		<link rel="alternate" href="https://www3.threefold.io/newsroom/2022/02/post-07/" type="text/html"/>
+		<id>https://www3.threefold.io/newsroom/2022/02/post-07/</id>
 		<content type="html">&lt;p&gt;🚨 &lt;strong&gt;The ThreeFold Validator Verification Process&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;If you’ve submitted your interest for either an &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;dao&#x2F;validators-signup-l0&#x2F;84&quot;&gt;L0&lt;&#x2F;a&gt; or &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;dao&#x2F;validators-signup-l2&#x2F;83&quot;&gt;L2&lt;&#x2F;a&gt; Validator, we are now pleased to share the verification process with you.&lt;&#x2F;p&gt;
@@ -288,8 +288,8 @@
 		<title>The ThreeFold Blockchain</title>
 		<published>2021-12-15T00:00:00+00:00</published>
 		<updated>2021-12-15T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/blog/2021/12/post-7/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/blog/2021/12/post-7/</id>
+		<link rel="alternate" href="https://www3.threefold.io/blog/2021/12/post-7/" type="text/html"/>
+		<id>https://www3.threefold.io/blog/2021/12/post-7/</id>
 		<content type="html">&lt;p&gt;The &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;what-is-new-in-tfgrid-3-0&#x2F;1133&#x2F;1&quot;&gt;third release&lt;&#x2F;a&gt; of the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;technology&#x2F;threefold__threefold_grid&quot;&gt;ThreeFold Grid&lt;&#x2F;a&gt; represents a major step in the decentralization of the People’s Internet with the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;technology&#x2F;threefold__smartcontract_tfgrid3&quot;&gt;Smart Contract for IT&lt;&#x2F;a&gt; coming to life on the ThreeFold Blockchain (aka “TF Chain”). Built on the Substrate framework, TF Chain represents the layer-0 for all current and future technologies to provision decentralized Internet capacity. &lt;&#x2F;p&gt;
 &lt;br&#x2F;&gt;
 &lt;p&gt;But what is Substrate to begin with? And what exactly does our TF Chain do?&lt;&#x2F;p&gt;
@@ -336,8 +336,8 @@
 		<title>Post 6 with its UNIQUE title</title>
 		<published>2019-06-08T15:25:00-05:00</published>
 		<updated>2019-07-25T14:05:00-05:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/blog/2019/06/post-6/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/blog/2019/06/post-6/</id>
+		<link rel="alternate" href="https://www3.threefold.io/blog/2019/06/post-6/" type="text/html"/>
+		<id>https://www3.threefold.io/blog/2019/06/post-6/</id>
 		<content type="html">&lt;p&gt;Your opening text goes here.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;in-article-heading-it-s-an-h2-because-your-title-is-the-h1&quot;&gt;In-article heading — it’s an H2 because your title is the H1&lt;&#x2F;h2&gt;
 &lt;p&gt;And after another paragraph or two or three, you may want to add a subheading, which would be an H3, so it would be like the following.&lt;&#x2F;p&gt;
@@ -379,8 +379,8 @@
 		<title>Post 5 with its UNIQUE title</title>
 		<published>2019-03-08T16:08:00-05:00</published>
 		<updated>2020-01-01T02:39:00-06:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/blog/2019/03/post-5/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/blog/2019/03/post-5/</id>
+		<link rel="alternate" href="https://www3.threefold.io/blog/2019/03/post-5/" type="text/html"/>
+		<id>https://www3.threefold.io/blog/2019/03/post-5/</id>
 		<content type="html">&lt;p&gt;Your opening text goes here.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;in-article-heading-it-s-an-h2-because-your-title-is-the-h1&quot;&gt;In-article heading — it’s an H2 because your title is the H1&lt;&#x2F;h2&gt;
 &lt;p&gt;And after another paragraph or two or three, you may want to add a subheading, which would be an H3, so it would be like the following.&lt;&#x2F;p&gt;
@@ -422,8 +422,8 @@
 		<title>Post 4 with its UNIQUE title</title>
 		<published>2019-03-02T10:00:00-06:00</published>
 		<updated>2020-01-31T08:13:00-06:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/blog/2019/03/post-4/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/blog/2019/03/post-4/</id>
+		<link rel="alternate" href="https://www3.threefold.io/blog/2019/03/post-4/" type="text/html"/>
+		<id>https://www3.threefold.io/blog/2019/03/post-4/</id>
 		<content type="html">&lt;p&gt;Your opening text goes here.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;in-article-heading-it-s-an-h2-because-your-title-is-the-h1&quot;&gt;In-article heading — it’s an H2 because your title is the H1&lt;&#x2F;h2&gt;
 &lt;p&gt;And after another paragraph or two or three, you may want to add a subheading, which would be an H3, so it would be like the following.&lt;&#x2F;p&gt;
@@ -465,15 +465,15 @@
 		<title>Post 3 with its UNIQUE title</title>
 		<published>2019-01-19T03:25:00-06:00</published>
 		<updated>2019-10-06T14:00:00-05:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/blog/2019/01/post-3/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/blog/2019/01/post-3/</id>
+		<link rel="alternate" href="https://www3.threefold.io/blog/2019/01/post-3/" type="text/html"/>
+		<id>https://www3.threefold.io/blog/2019/01/post-3/</id>
 		<content type="html">&lt;p&gt;Your opening text goes here.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;in-article-heading-it-s-an-h2-because-your-title-is-the-h1&quot;&gt;In-article heading — it’s an H2 because your title is the H1&lt;&#x2F;h2&gt;
 &lt;p&gt;And after another paragraph or two or three, you may want to add a subheading, which would be an H3, so it would be like the following.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;subheading-h3&quot;&gt;Subheading (H3)&lt;&#x2F;h3&gt;
 &lt;p&gt;Text here.&lt;&#x2F;p&gt;
 &lt;p&gt;And here is an example of how to use the &lt;code&gt;imgc&lt;&#x2F;code&gt; shortcode in &lt;code&gt;&#x2F;templates&#x2F;shortcodes&lt;&#x2F;code&gt;:&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;www3.threefold.io&#x2F;test_zola&#x2F;blog&#x2F;2019&#x2F;01&#x2F;post-3&#x2F;images&#x2F;threefold-blog.png&quot; alt=&quot;Image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;www3.threefold.io&#x2F;blog&#x2F;2019&#x2F;01&#x2F;post-3&#x2F;images&#x2F;threefold-blog.png&quot; alt=&quot;Image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Closing text. That ends Post 3!&lt;&#x2F;p&gt;
 </content>
 	</entry>
@@ -481,8 +481,8 @@
 		<title>Post 2 with its UNIQUE title</title>
 		<published>2018-10-25T07:40:00-05:00</published>
 		<updated>2020-06-13T13:10:00-05:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/blog/2018/10/post-2/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/blog/2018/10/post-2/</id>
+		<link rel="alternate" href="https://www3.threefold.io/blog/2018/10/post-2/" type="text/html"/>
+		<id>https://www3.threefold.io/blog/2018/10/post-2/</id>
 		<content type="html">&lt;p&gt;Your opening text goes here.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;in-article-heading-it-s-an-h2-because-your-title-is-the-h1&quot;&gt;In-article heading — it’s an H2 because your title is the H1&lt;&#x2F;h2&gt;
 &lt;p&gt;And after another paragraph or two or three, you may want to add a subheading, which would be an H3, so it would be like the following.&lt;&#x2F;p&gt;
@@ -496,8 +496,8 @@
 		<title>Post 1 with its UNIQUE title</title>
 		<published>2018-10-17T14:40:00-05:00</published>
 		<updated>2019-04-11T20:33:00-05:00</updated>
-		<link rel="alternate" href="https://www3.threefold.io/test_zola/blog/2018/10/post-1/" type="text/html"/>
-		<id>https://www3.threefold.io/test_zola/blog/2018/10/post-1/</id>
+		<link rel="alternate" href="https://www3.threefold.io/blog/2018/10/post-1/" type="text/html"/>
+		<id>https://www3.threefold.io/blog/2018/10/post-1/</id>
 		<content type="html">&lt;p&gt;Your opening text goes here.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;in-article-heading-it-s-an-h2-because-your-title-is-the-h1&quot;&gt;In-article heading — it’s an H2 because your title is the H1&lt;&#x2F;h2&gt;
 &lt;p&gt;And after another paragraph or two or three, you may want to add a subheading, which would be an H3, so it would be like the following.&lt;&#x2F;p&gt;
