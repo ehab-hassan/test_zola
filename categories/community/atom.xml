@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - Community</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://ehab-hassan.github.io/test_zola/categories/community/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://ehab-hassan.github.io/test_zola"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2019-04-11T20:33:00-05:00</updated>
+	<id>https://ehab-hassan.github.io/test_zola/categories/community/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Post 1 with its UNIQUE title</title>
+		<published>2018-10-17T14:40:00-05:00</published>
+		<updated>2019-04-11T20:33:00-05:00</updated>
+		<link rel="alternate" href="https://ehab-hassan.github.io/test_zola/blog/2018/10/post-1/" type="text/html"/>
+		<id>https://ehab-hassan.github.io/test_zola/blog/2018/10/post-1/</id>
+		<content type="html">&lt;p&gt;Your opening text goes here.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;in-article-heading-it-s-an-h2-because-your-title-is-the-h1&quot;&gt;In-article heading — it’s an H2 because your title is the H1&lt;&#x2F;h2&gt;
+&lt;p&gt;And after another paragraph or two or three, you may want to add a subheading, which would be an H3, so it would be like the following.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;subheading-h3&quot;&gt;Subheading (H3)&lt;&#x2F;h3&gt;
+&lt;p&gt;Text here.&lt;&#x2F;p&gt;
+&lt;p&gt;And here are some examples of how to use the &lt;code&gt;imgc&lt;&#x2F;code&gt; shortcode in &lt;code&gt;&#x2F;templates&#x2F;shortcodes&lt;&#x2F;code&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;Closing text. That ends Post 1!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

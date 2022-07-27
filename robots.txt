@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://ehab-hassan.github.io/test_zola/sitemap.xml

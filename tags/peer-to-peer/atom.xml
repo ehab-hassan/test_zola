@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - peer_to_peer</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://ehab-hassan.github.io/test_zola/tags/peer-to-peer/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://ehab-hassan.github.io/test_zola"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-02-23T00:00:00+00:00</updated>
+	<id>https://ehab-hassan.github.io/test_zola/tags/peer-to-peer/atom.xml</id>
+	<entry xml:lang="en">
+		<title>The Validator Verification Process is Underway</title>
+		<published>2022-02-23T00:00:00+00:00</published>
+		<updated>2022-02-23T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://ehab-hassan.github.io/test_zola/newsroom/2022/02/post-07/" type="text/html"/>
+		<id>https://ehab-hassan.github.io/test_zola/newsroom/2022/02/post-07/</id>
+		<content type="html">&lt;p&gt;🚨 &lt;strong&gt;The ThreeFold Validator Verification Process&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;If you’ve submitted your interest for either an &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;dao&#x2F;validators-signup-l0&#x2F;84&quot;&gt;L0&lt;&#x2F;a&gt; or &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;dao&#x2F;validators-signup-l2&#x2F;83&quot;&gt;L2&lt;&#x2F;a&gt; Validator, we are now pleased to share the verification process with you.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;the-threefold-validators-verification-process&#x2F;2276&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Limited spots remain&lt;&#x2F;strong&gt; for both L0 and L2 Validators, &lt;strong&gt;so be sure to submit your interest asap&lt;&#x2F;strong&gt; via the links above!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;And if you have any questions about validators still, please refer to &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;decentralization&#x2F;validators&#x2F;threefold__validators&quot;&gt;the Validators section&lt;&#x2F;a&gt; of the Library or in particular &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;decentralization&#x2F;validators&#x2F;threefold__validators_faq&quot;&gt;our FAQs&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;*&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
